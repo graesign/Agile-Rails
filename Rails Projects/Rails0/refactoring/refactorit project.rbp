@@ -1,0 +1,8 @@
+#Fri May 23 20:45:01 CEST 2008
+javadocpath=http\://java.sun.com/j2se/1.5.0/docs/api;
+classpath=C\:\\Program Files\\Java\\jre1.6.0_01\\lib\\charsets.jar;C\:\\Program Files\\Java\\jre1.6.0_01\\lib\\deploy.jar;C\:\\Program Files\\Java\\jre1.6.0_01\\lib\\javaws.jar;C\:\\Program Files\\Java\\jre1.6.0_01\\lib\\jce.jar;C\:\\Program Files\\Java\\jre1.6.0_01\\lib\\jsse.jar;C\:\\Program Files\\Java\\jre1.6.0_01\\lib\\management-agent.jar;C\:\\Program Files\\Java\\jre1.6.0_01\\lib\\plugin.jar;C\:\\Program Files\\Java\\jre1.6.0_01\\lib\\resources.jar;C\:\\Program Files\\Java\\jre1.6.0_01\\lib\\rt.jar;
+project_dependencies=
+autodetectpath=false
+jvm.mode=-1
+ignored_sourcepath=
+sourcepath=E\:\\DOCS\\HUISWERK\\RAILS\\RailsNewSVN\\Rails0\\src;

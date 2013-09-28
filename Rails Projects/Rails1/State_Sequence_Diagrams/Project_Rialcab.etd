@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE XMI SYSTEM "C:\Users\dareal\.netbeans\5.5.1\.uml\config\UML_2.0EMBT.dtd"> --><XMI xmlns:UML="omg.org/UML/1.4" xmi.version="2.0"> <XMI.header> <XMI.metamodel xmi.name="UML" xmi.version="1.4"/> <XMI.documentation> <XMI.exporter> Embarcadero's Describe </XMI.exporter> <XMI.exporterVersion> 6.0 </XMI.exporterVersion> </XMI.documentation> </XMI.header> <XMI.content> <UML:Project xmi.id="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" defaultLanguage="UML" projVersion="6.1.4.837" name="Project_Rialcab" mode="Analysis"><UML:Element.ownedElement>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<UML:Actor xmi.id="DCE.834BB293-7A57-7093-F41D-28159BD6A24A" name="Gebruiker" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" associationEnd="DCE.8FADA7F3-9618-9CF4-D654-E13A778DD8B5"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Actor>
+<UML:Association xmi.id="DCE.171291A0-6E5B-62B3-49E3-33F5DC293D5A" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Association.end>
+<UML:AssociationEnd xmi.id="DCE.8FADA7F3-9618-9CF4-D654-E13A778DD8B5" visibility="private" association="DCE.171291A0-6E5B-62B3-49E3-33F5DC293D5A" type="DCE.834BB293-7A57-7093-F41D-28159BD6A24A"><UML:TypedElement.multiplicity>
+<UML:Multiplicity xmi.id="DCE.0C6E4697-DE46-31E0-4C4C-33E2F27D82C8"/></UML:TypedElement.multiplicity></UML:AssociationEnd>
+<UML:AssociationEnd xmi.id="DCE.E968A1B8-3D8F-5A68-393A-CEFC5951D532" visibility="private" association="DCE.171291A0-6E5B-62B3-49E3-33F5DC293D5A" type="DCE.D4D148D3-8615-A0CA-A429-F5BC9546124F"><UML:TypedElement.multiplicity>
+<UML:Multiplicity xmi.id="DCE.195B8BFE-6A9E-F6CA-2D0B-88D50A80D493"/></UML:TypedElement.multiplicity></UML:AssociationEnd></UML:Association.end><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Association>
+
+<UML:Association xmi.id="DCE.24BA22FB-1CE9-5F02-3331-3D44EC29D5A1" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Association.end>
+<UML:AssociationEnd xmi.id="DCE.F8D02AED-3DC9-DC3E-7AC8-A1EEE20E10DF" visibility="private" association="DCE.24BA22FB-1CE9-5F02-3331-3D44EC29D5A1" type="DCE.FF015413-B04E-3E54-1222-6BE27EA2D79E"><UML:TypedElement.multiplicity>
+<UML:Multiplicity xmi.id="DCE.2B14C326-ABC9-33B0-9CA0-1F32704644EA"/></UML:TypedElement.multiplicity></UML:AssociationEnd>
+<UML:AssociationEnd xmi.id="DCE.9ED24D0D-D469-31F2-5E1B-525C0EE0E31F" visibility="private" association="DCE.24BA22FB-1CE9-5F02-3331-3D44EC29D5A1" type="DCE.AEE9F3AB-AEED-4A78-139D-07955EE5AF8B"><UML:TypedElement.multiplicity>
+<UML:Multiplicity xmi.id="DCE.E503EB4C-C925-93CC-AE6D-A28773222B28"/></UML:TypedElement.multiplicity></UML:AssociationEnd></UML:Association.end><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Association>
+
+
+
+
+
+
+<UML:Association xmi.id="DCE.86E5EBBE-23C8-3140-12D6-CF72FC087B0D" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Association.end>
+<UML:AssociationEnd xmi.id="DCE.67022653-D202-D801-F4FA-0B68156BE6BD" visibility="private" association="DCE.86E5EBBE-23C8-3140-12D6-CF72FC087B0D" type="DCE.AEE9F3AB-AEED-4A78-139D-07955EE5AF8B"><UML:TypedElement.multiplicity>
+<UML:Multiplicity xmi.id="DCE.B35555FE-A17D-8DFF-8FFF-906155D4A0C9"/></UML:TypedElement.multiplicity></UML:AssociationEnd>
+<UML:AssociationEnd xmi.id="DCE.BBF90989-B5AF-A9CF-4E1B-318EB533EFD6" visibility="private" association="DCE.86E5EBBE-23C8-3140-12D6-CF72FC087B0D" type="DCE.5D2C78AD-9805-0A1B-82B2-85F419DBFCAC"><UML:TypedElement.multiplicity>
+<UML:Multiplicity xmi.id="DCE.A50CC31F-E11E-CE8D-4DA7-4A87EB52F858"/></UML:TypedElement.multiplicity></UML:AssociationEnd></UML:Association.end><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Association>
+<UML:Association xmi.id="DCE.987C87FC-2D64-1579-9999-82DABF5B57CD" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Association.end>
+<UML:AssociationEnd xmi.id="DCE.EA4DB1E6-DC77-DFA3-4AFB-1A1FA410378E" visibility="private" association="DCE.987C87FC-2D64-1579-9999-82DABF5B57CD" type="DCE.AEE9F3AB-AEED-4A78-139D-07955EE5AF8B"><UML:TypedElement.multiplicity>
+<UML:Multiplicity xmi.id="DCE.BF3C2D9B-C692-748A-1811-A1520322FFBA"/></UML:TypedElement.multiplicity></UML:AssociationEnd>
+<UML:AssociationEnd xmi.id="DCE.BA00B184-E8AA-D974-E54A-AB9DB84820CD" visibility="private" association="DCE.987C87FC-2D64-1579-9999-82DABF5B57CD" type="DCE.816AEFA3-8CFD-F351-FFCE-2B0B0D380EA3"><UML:TypedElement.multiplicity>
+<UML:Multiplicity xmi.id="DCE.1DAF50BC-7C30-B621-B3E3-974247704456"/></UML:TypedElement.multiplicity></UML:AssociationEnd></UML:Association.end><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Association>
+
+
+<UML:Package xmi.id="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" name="UseCase_RailCab" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:Actor xmi.id="DCE.AEE9F3AB-AEED-4A78-139D-07955EE5AF8B" name="A.I." owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" associationEnd="DCE.9ED24D0D-D469-31F2-5E1B-525C0EE0E31F DCE.94C473A5-BF5C-200C-4049-53095D15C49A DCE.67022653-D202-D801-F4FA-0B68156BE6BD DCE.EA4DB1E6-DC77-DFA3-4AFB-1A1FA410378E" clientDependency="DCE.F54F5622-7471-AB2B-CFDA-9BAA8E924E9B"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Actor>
+<UML:UseCase xmi.id="DCE.D4D148D3-8615-A0CA-A429-F5BC9546124F" name="U01 Simulatie starten" owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" associationEnd="DCE.E968A1B8-3D8F-5A68-393A-CEFC5951D532"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:Extend xmi.id="DCE.DE7B4C53-F68D-B1D0-7D18-404155644F6A" owner="DCE.D4D148D3-8615-A0CA-A429-F5BC9546124F" target="DCE.6DE4D80C-A19C-590F-01D7-6A17C8A20084"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Extend>
+<UML:Extend xmi.id="DCE.C1F705B9-4A29-2FDC-D918-68048E3B32DF" owner="DCE.D4D148D3-8615-A0CA-A429-F5BC9546124F" target="DCE.EA503BEA-0604-A1B8-69B0-2D5CB1E115B4"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Extend>
+
+<UML:Extend xmi.id="DCE.B9C73973-CB4A-1FAD-410A-48C4AF80B119" owner="DCE.D4D148D3-8615-A0CA-A429-F5BC9546124F" target="DCE.C07C62C8-6E80-577F-94E5-925DCC5007A4"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Extend>
+<UML:Extend xmi.id="DCE.355358E6-F6F0-9322-2BCB-DBAC1EC620FA" owner="DCE.D4D148D3-8615-A0CA-A429-F5BC9546124F" target="DCE.246F8FCB-1B04-B396-8B50-6B9C3F784B20"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Extend>
+
+<UML:Include xmi.id="DCE.2192C4A7-6A7B-2C3E-4241-202EA18C0767" owner="DCE.D4D148D3-8615-A0CA-A429-F5BC9546124F" target="DCE.FF015413-B04E-3E54-1222-6BE27EA2D79E"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Include></UML:Element.ownedElement></UML:UseCase>
+<UML:UseCase xmi.id="DCE.246F8FCB-1B04-B396-8B50-6B9C3F784B20" name="U02 Simulatie Pauzeren" owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" extendedBy="DCE.355358E6-F6F0-9322-2BCB-DBAC1EC620FA"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:UseCase>
+<UML:UseCase xmi.id="DCE.EA503BEA-0604-A1B8-69B0-2D5CB1E115B4" name="U03 Baan instellingen wijzigen" owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" extendedBy="DCE.C1F705B9-4A29-2FDC-D918-68048E3B32DF"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:UseCase>
+<UML:UseCase xmi.id="DCE.6DE4D80C-A19C-590F-01D7-6A17C8A20084" name="U04 Statistieken bekijken" owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" extendedBy="DCE.DE7B4C53-F68D-B1D0-7D18-404155644F6A"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:UseCase>
+<UML:UseCase xmi.id="DCE.C07C62C8-6E80-577F-94E5-925DCC5007A4" name="U05 Reiziger invoeren" owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" extendedBy="DCE.B9C73973-CB4A-1FAD-410A-48C4AF80B119" supplierDependency="DCE.F54F5622-7471-AB2B-CFDA-9BAA8E924E9B"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:UseCase>
+<UML:UseCase xmi.id="DCE.FF015413-B04E-3E54-1222-6BE27EA2D79E" name="U06 Start A.I." owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" includedBy="DCE.2192C4A7-6A7B-2C3E-4241-202EA18C0767" associationEnd="DCE.F8D02AED-3DC9-DC3E-7AC8-A1EEE20E10DF"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:UseCase>
+<UML:UseCase xmi.id="DCE.5D2C78AD-9805-0A1B-82B2-85F419DBFCAC" name="U07 Plan taxi route" owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" associationEnd="DCE.AC381C5F-3DDF-1E4E-5D5B-1093E2E20D6F DCE.BBF90989-B5AF-A9CF-4E1B-318EB533EFD6"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:Extend xmi.id="DCE.45346AF8-44C2-55B0-C885-9FE6ED31C194" owner="DCE.5D2C78AD-9805-0A1B-82B2-85F419DBFCAC" target="DCE.0CE8079E-75DF-9A7F-9EE0-DCE3A46B4B4D"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Extend>
+<UML:Extend xmi.id="DCE.652746B7-2498-25A2-2F62-2E09B88ECFFB" owner="DCE.5D2C78AD-9805-0A1B-82B2-85F419DBFCAC" target="DCE.A7E8CCD1-403B-F73E-924C-D1451DB1CA83"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Extend></UML:Element.ownedElement></UML:UseCase>
+<UML:UseCase xmi.id="DCE.0CE8079E-75DF-9A7F-9EE0-DCE3A46B4B4D" name="U08 Status taxi controleren" owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" extendedBy="DCE.45346AF8-44C2-55B0-C885-9FE6ED31C194 DCE.43AB4B60-218C-4859-E835-094E73FCE8DF"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+
+<UML:Extend xmi.id="DCE.ECB31333-72CD-B00A-06D5-562EFF121C6A" owner="DCE.0CE8079E-75DF-9A7F-9EE0-DCE3A46B4B4D" target="DCE.C462823B-5FA2-0BEC-F18E-B476AFE3D4E6"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Extend></UML:Element.ownedElement></UML:UseCase>
+<UML:UseCase xmi.id="DCE.C462823B-5FA2-0BEC-F18E-B476AFE3D4E6" name="U09 Taxi aansturen" owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" extendedBy="DCE.5218AF89-3BBC-33EE-B2CF-563C62BF0065 DCE.ECB31333-72CD-B00A-06D5-562EFF121C6A DCE.1AE47CCC-DA49-4AB5-A117-EAAF322AF757"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+
+
+</UML:Element.ownedElement></UML:UseCase>
+<UML:UseCase xmi.id="DCE.A7E8CCD1-403B-F73E-924C-D1451DB1CA83" name="U10 Spoorwissel regelen" owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" extendedBy="DCE.652746B7-2498-25A2-2F62-2E09B88ECFFB DCE.5473FE1B-C07D-477A-CB3D-3C34508EE4A3"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+</UML:Element.ownedElement></UML:UseCase>
+<UML:UseCase xmi.id="DCE.816AEFA3-8CFD-F351-FFCE-2B0B0D380EA3" name="U11 Aanrijding vermijden " owner="DCE.B76C0BB7-E048-C615-2058-40028FCC53D0" associationEnd="DCE.BA00B184-E8AA-D974-E54A-AB9DB84820CD"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:Extend xmi.id="DCE.1AE47CCC-DA49-4AB5-A117-EAAF322AF757" owner="DCE.816AEFA3-8CFD-F351-FFCE-2B0B0D380EA3" target="DCE.C462823B-5FA2-0BEC-F18E-B476AFE3D4E6"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Extend>
+<UML:Extend xmi.id="DCE.5473FE1B-C07D-477A-CB3D-3C34508EE4A3" owner="DCE.816AEFA3-8CFD-F351-FFCE-2B0B0D380EA3" target="DCE.A7E8CCD1-403B-F73E-924C-D1451DB1CA83"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Extend>
+<UML:Extend xmi.id="DCE.43AB4B60-218C-4859-E835-094E73FCE8DF" owner="DCE.816AEFA3-8CFD-F351-FFCE-2B0B0D380EA3" target="DCE.0CE8079E-75DF-9A7F-9EE0-DCE3A46B4B4D"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Extend></UML:Element.ownedElement></UML:UseCase></UML:Element.ownedElement></UML:Package>
+
+
+
+
+
+
+
+
+
+<UML:Dependency xmi.id="DCE.2C3FA7F0-6764-99BA-388F-EC0EDB6A4D1C" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.0FC0503C-DF64-ED93-560F-A47EFA9F13CA" supplier="DCE.618A2ED1-8F25-8D18-9500-3FD4BEDF9FB3"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+
+<UML:Dependency xmi.id="DCE.B65F3648-EDEA-2277-AF6D-94AAFD60B9E2" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.9808B414-694F-8C78-F3C3-FAE257899BEB" supplier="DCE.3BA214AC-0E53-68F0-463C-E35C23F0C332"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Dependency xmi.id="DCE.485AA46F-D242-E38D-EFF6-B3C045914625" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.0FC0503C-DF64-ED93-560F-A47EFA9F13CA" supplier="DCE.742519F6-11EF-94C7-FB86-8749DB700739"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Dependency xmi.id="DCE.6B5792C6-E6D8-362D-1774-F6737EFBDE1A" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.9808B414-694F-8C78-F3C3-FAE257899BEB" supplier="DCE.B53A9DA0-9B20-4BCD-4D33-AE8E9144609D"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<UML:Dependency xmi.id="DCE.4E9743DB-A473-61C0-3001-8569B784EECB" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.0FC0503C-DF64-ED93-560F-A47EFA9F13CA" supplier="DCE.3964951A-A911-3C5A-4EC9-25130ECE9148"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Dependency xmi.id="DCE.4FFF8260-8A54-51BC-4AA2-C7F7AD3B1A0A" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.0FC0503C-DF64-ED93-560F-A47EFA9F13CA" supplier="DCE.B46D7D80-2355-50C4-5029-2104B4F5BAAD"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+
+
+<UML:Dependency xmi.id="DCE.EE6A7F9F-0B67-2DF0-6763-D7A7892395CF" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.0FC0503C-DF64-ED93-560F-A47EFA9F13CA" supplier="DCE.7C4CA4CB-4ACD-A438-9FB0-49BD052EFD9B"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Dependency xmi.id="DCE.C578286C-CBDD-2CC1-6AF5-79481A75E9F3" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.E03F52E4-9CC8-C5DD-EFE0-9804BDD88325" supplier="DCE.7C4CA4CB-4ACD-A438-9FB0-49BD052EFD9B"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Dependency xmi.id="DCE.D2218AC9-95EC-9917-87AD-084631FF86E0" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.0FC0503C-DF64-ED93-560F-A47EFA9F13CA" supplier="DCE.EF0E401C-B348-A8AB-9B93-91DF02141BFB"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+
+<UML:Package xmi.id="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" name="Class_Railcab" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" clientDependency="" supplierDependency=""><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:Class xmi.id="DCE.B53A9DA0-9B20-4BCD-4D33-AE8E9144609D" name="Motor" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" supplierDependency="DCE.BBEA6F55-09D2-4DE0-BB8D-D2453FB1BB99 DCE.6B5792C6-E6D8-362D-1774-F6737EFBDE1A"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+
+<UML:TaggedValue xmi.id="DCE.382C02FC-CA5C-304B-F748-7EAC14F6B9A2" owner="DCE.B53A9DA0-9B20-4BCD-4D33-AE8E9144609D" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;De motor kan starten en stoppen.
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.9808B414-694F-8C78-F3C3-FAE257899BEB" name="Trein" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" clientDependency="DCE.B65F3648-EDEA-2277-AF6D-94AAFD60B9E2 DCE.6B5792C6-E6D8-362D-1774-F6737EFBDE1A" supplierDependency="DCE.A799254C-85CF-F83E-C6FA-4AEF322F5D7C DCE.E57EA4E8-2D10-EC19-B2EE-925DA13D586E"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+
+
+<UML:TaggedValue xmi.id="DCE.428BC4D4-C18E-6476-87EA-C925361418E2" owner="DCE.9808B414-694F-8C78-F3C3-FAE257899BEB" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.3BA214AC-0E53-68F0-463C-E35C23F0C332" name="Sensor" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" supplierDependency="DCE.B65F3648-EDEA-2277-AF6D-94AAFD60B9E2 DCE.D0024355-B38B-817D-0A61-34885AB32AD5"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.B684FF9B-235B-78EF-86A3-E8FDD396C817" owner="DCE.3BA214AC-0E53-68F0-463C-E35C23F0C332" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;Deze houd continue in de gaten of er een lampje langs komt
+
+
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.618A2ED1-8F25-8D18-9500-3FD4BEDF9FB3" name="CollisionControl" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" supplierDependency="DCE.2C3FA7F0-6764-99BA-388F-EC0EDB6A4D1C" clientDependency="DCE.D0024355-B38B-817D-0A61-34885AB32AD5 DCE.19A66275-6704-47A0-EBF4-F2278D8BDFB9"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.5A605434-A2A3-9197-610E-97FD4188E34E" owner="DCE.618A2ED1-8F25-8D18-9500-3FD4BEDF9FB3" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;Houd op basis van de gegevens van treinmanagement in de gaten dat
+treinen 
+      niet kunnen botsen.
+
+    &lt;/p&gt;
+    &lt;p style="margin-top: 0"&gt;
+
+      
+    &lt;/p&gt;
+    &lt;p style="margin-top: 0"&gt;Bij een mogelijke botsing word dit doorgegeven aan de intelligence zodat
+deze 
+      de juiste stappen kan ondernemen.
+
+
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.0FC0503C-DF64-ED93-560F-A47EFA9F13CA" name="Intelligence" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" clientDependency="DCE.FF4E4A76-229F-0693-FC3E-1952B5C04BE3 DCE.FB47715D-58FE-EC8F-C9E8-91618E284692 DCE.BBEA6F55-09D2-4DE0-BB8D-D2453FB1BB99 DCE.2C3FA7F0-6764-99BA-388F-EC0EDB6A4D1C DCE.485AA46F-D242-E38D-EFF6-B3C045914625 DCE.E3AF622A-1F1F-4658-1C91-FC5B93211882 DCE.A799254C-85CF-F83E-C6FA-4AEF322F5D7C DCE.4E9743DB-A473-61C0-3001-8569B784EECB DCE.4FFF8260-8A54-51BC-4AA2-C7F7AD3B1A0A DCE.EE6A7F9F-0B67-2DF0-6763-D7A7892395CF DCE.D2218AC9-95EC-9917-87AD-084631FF86E0" supplierDependency="DCE.D19EFC5F-626B-9042-4224-AF04079B6E0D DCE.BCDB09CC-D254-29AB-E981-FDD290B98E16 DCE.1957E4D5-9FFC-2B9F-E4E7-DB0D61EAF7E0 DCE.0E5AD8F7-85B5-0179-7944-A35DE2FC4E74 DCE.1D5DB88C-3432-AEC7-9EE0-72C5BF0320DB"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.C4426A58-4574-AE7C-92BE-73C07BDD1FA8" owner="DCE.0FC0503C-DF64-ED93-560F-A47EFA9F13CA" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;Deze bepaalt welke trein moet rijden en welke moet stoppen, waar en voor 
+  hoelang.
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue>
+<UML:Part xmi.id="DCE.F3D763DF-BFDB-B843-BF2F-B6D00979151D" visibility="private" name="Unnamed" type="DCE.0FC0503C-DF64-ED93-560F-A47EFA9F13CA" owner="DCE.0FC0503C-DF64-ED93-560F-A47EFA9F13CA"/></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.742519F6-11EF-94C7-FB86-8749DB700739" name="Spoorwissel" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" supplierDependency="DCE.FB47715D-58FE-EC8F-C9E8-91618E284692 DCE.485AA46F-D242-E38D-EFF6-B3C045914625"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.2B36A806-1A5B-F4A4-B016-6792737864A5" owner="DCE.742519F6-11EF-94C7-FB86-8749DB700739" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;Een spoorwissel heeft 2 operaties
+    &lt;/p&gt;
+    &lt;p style="margin-top: 0"&gt;getStatus() // Dit kan links, bezig, rechts zijn
+    &lt;/p&gt;
+    &lt;p style="margin-top: 0"&gt;setStand() // kan je links of rechts aangeven
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.3964951A-A911-3C5A-4EC9-25130ECE9148" name="Reizigers" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" clientDependency="DCE.A66BD977-A43A-36E7-D820-07BBAE935313" supplierDependency="DCE.4E9743DB-A473-61C0-3001-8569B784EECB DCE.023541B3-0B62-F5AE-FE20-4D505CAA5423 DCE.5BDC22FB-95FD-E58D-55C1-E49F9F4C0B96"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.CFF4B201-8ED0-EAA1-9575-13335B3F3072" owner="DCE.3964951A-A911-3C5A-4EC9-25130ECE9148" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;Hier worden alle reizigers in bijgehouden. Waar ze zijn en waar ze heen
+willen
+
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Class>
+<UML:Interface xmi.id="DCE.5EC33F2D-2F1F-87E1-454D-E2107551FC5B" name="Reizigers invoeren" isAbstract="true" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" appliedStereotype="__uri_.\Project_Rialcab.etup#//*[@xmi.id=&quot;DCE.64D8D012-2100-47F6-1DAC-D26C0A761AEC&quot;]" supplierDependency="DCE.0D60954C-2227-7EA5-8617-594778BC3C14 DCE.A66BD977-A43A-36E7-D820-07BBAE935313" clientDependency="DCE.5BDC22FB-95FD-E58D-55C1-E49F9F4C0B96"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.ACD339F9-E7B7-26D5-9D14-F54FBAA8A709" owner="DCE.5EC33F2D-2F1F-87E1-454D-E2107551FC5B" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Interface>
+<UML:Interface xmi.id="DCE.E03F52E4-9CC8-C5DD-EFE0-9804BDD88325" name="Baaninstellingen" isAbstract="true" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" appliedStereotype="__uri_.\Project_Rialcab.etup#//*[@xmi.id=&quot;DCE.64D8D012-2100-47F6-1DAC-D26C0A761AEC&quot;]" clientDependency="DCE.D19EFC5F-626B-9042-4224-AF04079B6E0D DCE.BCDB09CC-D254-29AB-E981-FDD290B98E16 DCE.C578286C-CBDD-2CC1-6AF5-79481A75E9F3" supplierDependency="DCE.4B6BAD22-9B57-B015-6B48-1FE82042B4A2"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.E35803DE-1E31-425F-5A06-B39536FC5B98" owner="DCE.E03F52E4-9CC8-C5DD-EFE0-9804BDD88325" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Interface>
+<UML:Class xmi.id="DCE.7C4CA4CB-4ACD-A438-9FB0-49BD052EFD9B" name="TrackSetting" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" clientDependency="DCE.4B6BAD22-9B57-B015-6B48-1FE82042B4A2 DCE.1957E4D5-9FFC-2B9F-E4E7-DB0D61EAF7E0 DCE.0D60954C-2227-7EA5-8617-594778BC3C14 DCE.FAA25F87-53D3-A7AB-A90D-1CE1463BE31C" supplierDependency="DCE.EE6A7F9F-0B67-2DF0-6763-D7A7892395CF DCE.C578286C-CBDD-2CC1-6AF5-79481A75E9F3"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.C6C6C2A9-780E-5C66-FFFE-BCF5E8D4FF75" owner="DCE.7C4CA4CB-4ACD-A438-9FB0-49BD052EFD9B" name="documentation">
+<UML:TaggedValue.dataValue> &lt;div align="left"&gt;Hierin staan bij aanroep de default instellingen. Deze kunnen bij de interface 
+      gewijzigd worden.
+&lt;/div&gt;&lt;div align="left"&gt;* de volgorde waarin de stations staan
+&lt;/div&gt;&lt;div align="left"&gt;* wachttijd van een trein bij een station
+&lt;/div&gt;&lt;div align="left"&gt;* maximumsnelheid van een trein
+&lt;/div&gt;&lt;div align="left"&gt;* de versnelling en vertraging bij wegrijden en stoppen
+
+
+
+&lt;/div&gt;</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.B46D7D80-2355-50C4-5029-2104B4F5BAAD" name="TreinManagement" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" supplierDependency="DCE.4FFF8260-8A54-51BC-4AA2-C7F7AD3B1A0A DCE.19A66275-6704-47A0-EBF4-F2278D8BDFB9 DCE.69E429D4-13FD-8751-6674-7DE89210EAED" clientDependency="DCE.E57EA4E8-2D10-EC19-B2EE-925DA13D586E"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.73C8E5CE-B006-71FF-CB5D-E5CA53F0FC5C" owner="DCE.B46D7D80-2355-50C4-5029-2104B4F5BAAD" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;Deze heeft een overzicht met de plek van elke trein.
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.EF0E401C-B348-A8AB-9B93-91DF02141BFB" name="Station" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" supplierDependency="DCE.E3AF622A-1F1F-4658-1C91-FC5B93211882 DCE.E6265AEF-61A8-1EE6-2068-64FC9922E293 DCE.A0896774-42D5-476B-F461-AED6834C80E8 DCE.D2218AC9-95EC-9917-87AD-084631FF86E0 DCE.510888E4-E592-1C59-D77E-87A6CD24C6E6 DCE.FAA25F87-53D3-A7AB-A90D-1CE1463BE31C" clientDependency="DCE.536B5AF8-96E8-6C68-2D32-48122851F0A5"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.79CEAB04-69BC-066C-867E-8BC488FFE856" owner="DCE.EF0E401C-B348-A8AB-9B93-91DF02141BFB" name="documentation">
+<UML:TaggedValue.dataValue> &lt;div align="left"&gt;&lt;font face=""&gt;Een station bevat de volgende gegevens.
+* W&lt;/font&gt;aar hij 
+      zich bevind
+&lt;/div&gt;&lt;div align="left"&gt;* Hoeveelheid reizigers
+&lt;/div&gt;&lt;div align="left"&gt;* Tijd van aankomst van elke reiziger (op het vertrekstation)
+&lt;/div&gt;&lt;div align="left"&gt;* Reisbestemming van elke reiziger
+
+
+
+
+&lt;/div&gt;</UML:TaggedValue.dataValue></UML:TaggedValue>
+<UML:Part xmi.id="DCE.0CE96D0B-A2F9-FE92-3C2D-B1896722AFC1" visibility="private" name="Unnamed" type="DCE.EF0E401C-B348-A8AB-9B93-91DF02141BFB" owner="DCE.EF0E401C-B348-A8AB-9B93-91DF02141BFB" end="DCE.9610AEC3-9398-5DE4-4E71-7C8E39872221"/></UML:Element.ownedElement></UML:Class>
+<UML:Interface xmi.id="DCE.03DA60FD-400D-1796-AD05-1FEA2347738D" name="Statistieken" isAbstract="true" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" appliedStereotype="__uri_.\Project_Rialcab.etup#//*[@xmi.id=&quot;DCE.64D8D012-2100-47F6-1DAC-D26C0A761AEC&quot;]" clientDependency="DCE.A0896774-42D5-476B-F461-AED6834C80E8 DCE.023541B3-0B62-F5AE-FE20-4D505CAA5423 DCE.510888E4-E592-1C59-D77E-87A6CD24C6E6" supplierDependency="DCE.536B5AF8-96E8-6C68-2D32-48122851F0A5"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.18490B03-6C7D-C14D-D2E9-539BFB96ED8D" owner="DCE.03DA60FD-400D-1796-AD05-1FEA2347738D" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;Een overzicht van statestieken over reizigers en treinen en stations.
+
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Interface>
+
+<UML:Class xmi.id="DCE.99AF7CE3-BB2D-01B8-312C-D258F417CE9C" name="Main" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" clientDependency="DCE.1D5DB88C-3432-AEC7-9EE0-72C5BF0320DB"><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.730FF9FC-4593-7847-6D39-27D8E6BB8387" owner="DCE.99AF7CE3-BB2D-01B8-312C-D258F417CE9C" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;This one gets the process going ;-)
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue>
+<UML:Part xmi.id="DCE.3E74E22A-8B26-0BFB-EC2F-C9E797BB975B" visibility="private" name="Unnamed" type="DCE.99AF7CE3-BB2D-01B8-312C-D258F417CE9C" owner="DCE.99AF7CE3-BB2D-01B8-312C-D258F417CE9C"/></UML:Element.ownedElement></UML:Class>
+<UML:Interface xmi.id="DCE.358F451B-766B-BF24-6B36-9D3849723325" name="Monitor" isAbstract="true" owner="DCE.1821F4F8-0C88-A2E7-D1A6-A55A63553998" appliedStereotype="__uri_.\Project_Rialcab.etup#//*[@xmi.id=&quot;DCE.64D8D012-2100-47F6-1DAC-D26C0A761AEC&quot;]" clientDependency="DCE.69E429D4-13FD-8751-6674-7DE89210EAED"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.52B809E7-07CA-F9B2-AF12-D947BFD81C80" owner="DCE.358F451B-766B-BF24-6B36-9D3849723325" name="documentation">
+<UML:TaggedValue.dataValue> &lt;p style="margin-top: 0"&gt;Deze laat de treinbaan zien met alle treinen erop
+    &lt;/p&gt;
+</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:Interface></UML:Element.ownedElement></UML:Package>
+
+
+
+<UML:Dependency xmi.id="DCE.1D5DB88C-3432-AEC7-9EE0-72C5BF0320DB" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.99AF7CE3-BB2D-01B8-312C-D258F417CE9C" supplier="DCE.0FC0503C-DF64-ED93-560F-A47EFA9F13CA"><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Dependency xmi.id="DCE.19A66275-6704-47A0-EBF4-F2278D8BDFB9" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.618A2ED1-8F25-8D18-9500-3FD4BEDF9FB3" supplier="DCE.B46D7D80-2355-50C4-5029-2104B4F5BAAD"><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Dependency xmi.id="DCE.E57EA4E8-2D10-EC19-B2EE-925DA13D586E" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.B46D7D80-2355-50C4-5029-2104B4F5BAAD" supplier="DCE.9808B414-694F-8C78-F3C3-FAE257899BEB"><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+
+<UML:Dependency xmi.id="DCE.69E429D4-13FD-8751-6674-7DE89210EAED" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.358F451B-766B-BF24-6B36-9D3849723325" supplier="DCE.B46D7D80-2355-50C4-5029-2104B4F5BAAD"><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Dependency xmi.id="DCE.023541B3-0B62-F5AE-FE20-4D505CAA5423" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.03DA60FD-400D-1796-AD05-1FEA2347738D" supplier="DCE.3964951A-A911-3C5A-4EC9-25130ECE9148"><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Dependency xmi.id="DCE.510888E4-E592-1C59-D77E-87A6CD24C6E6" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.03DA60FD-400D-1796-AD05-1FEA2347738D" supplier="DCE.EF0E401C-B348-A8AB-9B93-91DF02141BFB"><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Dependency xmi.id="DCE.5BDC22FB-95FD-E58D-55C1-E49F9F4C0B96" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.5EC33F2D-2F1F-87E1-454D-E2107551FC5B" supplier="DCE.3964951A-A911-3C5A-4EC9-25130ECE9148"><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Dependency xmi.id="DCE.FAA25F87-53D3-A7AB-A90D-1CE1463BE31C" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8" client="DCE.7C4CA4CB-4ACD-A438-9FB0-49BD052EFD9B" supplier="DCE.EF0E401C-B348-A8AB-9B93-91DF02141BFB"><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:StateMachine xmi.id="DCE.35A7535C-4B0A-6030-7F3B-84E388A5C6D0" name="Gebruiker" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" name="Unnamed" owner="DCE.35A7535C-4B0A-6030-7F3B-84E388A5C6D0"><UML:Element.ownedElement>
+<UML:PseudoState xmi.id="DCE.74B34C20-DB55-74F6-B7E8-A3FC61E5BEF7" name="Unnamed" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" kind="initial" outgoing="DCE.0544AEB4-9987-10A2-3D53-8FC7F39D600B"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:PseudoState>
+<UML:FinalState xmi.id="DCE.AADD8E36-3879-B387-FF62-695578BDC6CA" name="Simulatie beeindigd" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" incoming="DCE.16BBEDBA-5463-D64F-024B-404C989A7A4B DCE.F03EF0AC-0B2C-C397-18B2-1F5F200F2302"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:FinalState>
+<UML:State xmi.id="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE" name="Simulatie draaid" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" isSimple="true" incoming="DCE.0544AEB4-9987-10A2-3D53-8FC7F39D600B DCE.2E9C9C48-3BB1-4127-C827-53F17783B2D3 DCE.C2E885D2-EDA6-0973-941A-8C29E03CCB72 DCE.DA45FB9A-4686-024D-2921-1E0601F48279 DCE.9E332C87-35F5-6469-31BD-74621EAA34DA" clientDependency="DCE.4390B442-31B1-45D5-6B0F-84E4838E0ACB DCE.06B782D5-06B5-4F00-0EC5-52725E5DBB9A" supplierDependency="DCE.02C2462F-E829-148D-C316-55E68C771BE4 DCE.BD53011B-E7FD-7243-0C97-EEAA71F6A1BB DCE.BC053B94-1FFA-568D-F942-EB4954038F55" outgoing="DCE.16BBEDBA-5463-D64F-024B-404C989A7A4B DCE.2E9C9C48-3BB1-4127-C827-53F17783B2D3 DCE.68CC46D0-B48A-01D5-0AB9-45B01B2F7C05 DCE.14B9138C-A911-5DBD-6583-CE767DE4385B DCE.9AD7ECC4-0F12-96E1-F44F-EC7BB324DE2A DCE.F20F52FF-6527-58E0-B04A-1405EEB93682 DCE.3C13E35B-BDEC-5DBB-01A7-7563351EDC6E DCE.708C370D-6878-4E4F-22DB-F952DF9C9977 DCE.B618A63C-9712-1314-AE6A-F0F8FEC97245"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.CBBD8EF1-B781-A554-52E2-D19B0D0BC870" name="Unnamed" owner="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:State>
+
+
+<UML:State xmi.id="DCE.B973DEE9-E24D-2D0E-25F4-CDFD8751E03D" name="A.I. gestart" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" isSimple="true" supplierDependency="DCE.4390B442-31B1-45D5-6B0F-84E4838E0ACB" clientDependency="DCE.02C2462F-E829-148D-C316-55E68C771BE4 DCE.611E921A-43A4-9992-287C-A476EB157AD6" outgoing="DCE.481FEF25-BF75-771F-2BD4-2C203A4EE402 DCE.95945D34-3C73-BCA0-F225-0109A4CE4BAE DCE.E60DD9EC-F350-6895-6D2D-8448D38BCDE4" incoming="DCE.B1F34865-60C4-9A9C-8854-9D86C94A99F6"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.A4B8581A-AB2E-4021-D81C-45F1855FC4D9" name="Unnamed" owner="DCE.B973DEE9-E24D-2D0E-25F4-CDFD8751E03D"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+</UML:Element.presentation></UML:State>
+<UML:PseudoState xmi.id="DCE.40422891-145F-21AC-EDF8-C495F7DBD448" name="Unnamed" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" kind="join"><UML:Element.presentation>
+</UML:Element.presentation></UML:PseudoState>
+<UML:Transition xmi.id="DCE.0544AEB4-9987-10A2-3D53-8FC7F39D600B" source="DCE.74B34C20-DB55-74F6-B7E8-A3FC61E5BEF7" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE" name="Gebruiker start sim."><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.17515269-A9ED-7D9F-E5AC-E3507065AA5A"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.81334E1F-1B51-7265-9498-00737A657071"/></UML:Transition.postCondition></UML:Transition>
+<UML:Dependency xmi.id="DCE.4390B442-31B1-45D5-6B0F-84E4838E0ACB" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" client="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE" supplier="DCE.B973DEE9-E24D-2D0E-25F4-CDFD8751E03D"><UML:Element.presentation>
+</UML:Element.presentation></UML:Dependency>
+
+
+<UML:Dependency xmi.id="DCE.BD53011B-E7FD-7243-0C97-EEAA71F6A1BB" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" client="DCE.4CC0B7A1-EB88-3F16-4A81-A83B34FBD30E" supplier="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE" name="bekijk statistieken"><UML:Element.presentation>
+
+</UML:Element.presentation><UML:Element.ownedElement>
+</UML:Element.ownedElement></UML:Dependency>
+
+<UML:State xmi.id="DCE.6D398EF1-F139-1A15-3904-A408E9315FF2" name="Simulatie gestopt" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" isSimple="true" incoming="DCE.14B9138C-A911-5DBD-6583-CE767DE4385B" outgoing="DCE.F03EF0AC-0B2C-C397-18B2-1F5F200F2302" supplierDependency="DCE.611E921A-43A4-9992-287C-A476EB157AD6"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.05B7844F-B8FF-4BBA-7F4A-DC9783E15561" name="Unnamed" owner="DCE.6D398EF1-F139-1A15-3904-A408E9315FF2"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:State>
+<UML:Transition xmi.id="DCE.2E9C9C48-3BB1-4127-C827-53F17783B2D3" source="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.E3293030-7D14-708F-36D7-D32EC11EB1FA"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.C723DAF4-89DB-87F0-50CD-C00C7EB96FF0"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.C2E885D2-EDA6-0973-941A-8C29E03CCB72" source="DCE.4CC0B7A1-EB88-3F16-4A81-A83B34FBD30E" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE" name="Bekijk statistieken"><UML:Element.presentation>
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.AC22FB47-D21E-1863-6DE6-4A7A4594739A"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.12D656E7-FCA5-4378-7653-155E4493B79D"/></UML:Transition.postCondition></UML:Transition>
+
+<UML:Transition xmi.id="DCE.14B9138C-A911-5DBD-6583-CE767DE4385B" source="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.6D398EF1-F139-1A15-3904-A408E9315FF2" name="Gebruiker stopt sim."><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.647B31AD-15C8-48C5-0205-77A7A4C5E714"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.CA482958-52B0-B636-D0EA-EEAE6EEA00A8"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.F03EF0AC-0B2C-C397-18B2-1F5F200F2302" source="DCE.6D398EF1-F139-1A15-3904-A408E9315FF2" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.AADD8E36-3879-B387-FF62-695578BDC6CA"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.603F9DEB-3704-5879-9A55-C51DCC3140ED"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.764134B6-F2F4-3AC0-9BCF-5C10B1B45847"/></UML:Transition.postCondition></UML:Transition>
+<UML:State xmi.id="DCE.BB718373-B38A-62BE-7D6F-DC914A57BA33" name="Instellingen wijzigen" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" isSimple="true"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.089C5929-A46A-5FF7-44DB-E23B0A403FCF" name="Unnamed" owner="DCE.BB718373-B38A-62BE-7D6F-DC914A57BA33"/></UML:Element.ownedElement><UML:Element.presentation>
+</UML:Element.presentation></UML:State>
+<UML:State xmi.id="DCE.0D0DAEDD-CC45-F577-505D-4543BACB226B" name="Simulatie Gepauzeerd" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" isSimple="true" supplierDependency="DCE.06B782D5-06B5-4F00-0EC5-52725E5DBB9A" clientDependency="DCE.BC053B94-1FFA-568D-F942-EB4954038F55" incoming="DCE.9AD7ECC4-0F12-96E1-F44F-EC7BB324DE2A" outgoing="DCE.DA45FB9A-4686-024D-2921-1E0601F48279"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.5F4EE59C-2878-B88E-6756-C750F5237382" name="Unnamed" owner="DCE.0D0DAEDD-CC45-F577-505D-4543BACB226B"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:State>
+
+
+
+
+<UML:Transition xmi.id="DCE.95945D34-3C73-BCA0-F225-0109A4CE4BAE" source="DCE.B973DEE9-E24D-2D0E-25F4-CDFD8751E03D" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.88C35908-B4EE-CB46-33D9-1D71DCE5F9FC" name="Check naderende taxi"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.109691DD-EFA6-21E0-2F24-E9D43AD423F0"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.808B074E-43B0-FE1D-1229-C76F5EBB4897"/></UML:Transition.postCondition></UML:Transition>
+
+<UML:Transition xmi.id="DCE.E60DD9EC-F350-6895-6D2D-8448D38BCDE4" source="DCE.B973DEE9-E24D-2D0E-25F4-CDFD8751E03D" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.4D0FC59C-BFB5-25E8-084B-F8C70E7DFD86" name="Gebruiker "><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.81F8FDD1-E95A-B3E5-033D-67819549EF25"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.D05A4D0E-1775-AED7-FC3F-C9420E4AD11C"/></UML:Transition.postCondition></UML:Transition>
+
+
+
+<UML:Transition xmi.id="DCE.46967CE2-1DC8-8A95-3F00-8234093F6757" source="DCE.4D0FC59C-BFB5-25E8-084B-F8C70E7DFD86" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.45CB7204-0A75-B8D6-CD6D-0218864C8524" name="Controlleer status taxi"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.1977D621-4C92-0B38-3364-60F3B887B127"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.D477A531-0217-BA80-EBEC-068F5D36E649"/></UML:Transition.postCondition></UML:Transition>
+
+<UML:Transition xmi.id="DCE.B1F34865-60C4-9A9C-8854-9D86C94A99F6" source="DCE.A68BEB3E-761D-888D-31D0-7717D2EC5741" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.B973DEE9-E24D-2D0E-25F4-CDFD8751E03D" name="Taxi aansturen"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.3CDF0620-6911-9E63-C3FB-D15F7DC40D70"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.E4840047-FAA5-611F-D25C-42A1FB5555DA"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.37F57806-0C64-252E-6ECE-EB0F9B67ECAE" source="DCE.45CB7204-0A75-B8D6-CD6D-0218864C8524" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.A68BEB3E-761D-888D-31D0-7717D2EC5741"><UML:Element.presentation>
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.CA63E507-6374-DA9A-3564-9137FE2BFCE5"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.8170982F-D4B6-5CDA-0A49-FAA03E528EB6"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.B7385516-EADF-0774-B7B9-BAE3305E345E" source="DCE.45CB7204-0A75-B8D6-CD6D-0218864C8524" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.A68BEB3E-761D-888D-31D0-7717D2EC5741" name="Taxi aansturen"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.B2E09C96-23B1-712F-15FD-38B8A51DCDF6"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.3279F3D1-0075-9AA1-EF8D-9668159B0959"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.C71786D3-4A4D-343F-997E-6F069406B02B" source="DCE.88C35908-B4EE-CB46-33D9-1D71DCE5F9FC" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.A68BEB3E-761D-888D-31D0-7717D2EC5741" name="Taxi aansturen"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.EB8F1410-7A6F-A190-2392-85315E25189A"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.0F5BB244-FF46-296B-65E7-961F8F5573EB"/></UML:Transition.postCondition></UML:Transition>
+<UML:Dependency xmi.id="DCE.611E921A-43A4-9992-287C-A476EB157AD6" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" client="DCE.B973DEE9-E24D-2D0E-25F4-CDFD8751E03D" supplier="DCE.6D398EF1-F139-1A15-3904-A408E9315FF2" name="A.I. wordt gestopt"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation></UML:Dependency>
+<UML:Transition xmi.id="DCE.9AD7ECC4-0F12-96E1-F44F-EC7BB324DE2A" source="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.0D0DAEDD-CC45-F577-505D-4543BACB226B" name="Gebruiker pauzeerd sim."><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.C728BD73-121D-07F8-71A9-908E49F0EEAA"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.FB5BD96B-E63C-DA6A-473B-2C81153DFB60"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.DA45FB9A-4686-024D-2921-1E0601F48279" source="DCE.0D0DAEDD-CC45-F577-505D-4543BACB226B" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE" name="Gebruiker hervat sim."><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.E241B491-634E-B4CB-F894-169D0CE6397A"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.FCE401DB-B17B-3AFB-4ABF-2C7C9652735F"/></UML:Transition.postCondition></UML:Transition>
+<UML:State xmi.id="DCE.341A0A29-CEFE-3BD2-6DE7-F83FBB553D34" name="Taxi vol" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" isSimple="true" incoming="DCE.3D0415FA-4560-78A1-801A-FB1B5AF5F668 DCE.28E676DF-119B-490B-331B-E2CE478EA64B DCE.B6E5E6AC-2E07-6AF5-0EAF-A31CF48E2DB0 DCE.DC81C0C1-8745-D586-66AA-BC6D6EBB4FA0" outgoing="DCE.CD9515CA-DBB8-7331-DBBD-FF36342335AB DCE.F67B6A22-9400-04F6-F2E4-2DB78CCE5A1A DCE.1FF4E030-34E0-FD23-9A82-D00AB9ED22FA"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.34F0369D-7109-EE55-0CDE-C2188BFB719E" name="Unnamed" owner="DCE.341A0A29-CEFE-3BD2-6DE7-F83FBB553D34"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:State>
+<UML:State xmi.id="DCE.D7120964-EB27-BEFF-DD93-7D6AB2AFF625" name="Taxi leeg" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" isSimple="true" outgoing="DCE.3D0415FA-4560-78A1-801A-FB1B5AF5F668 DCE.28E676DF-119B-490B-331B-E2CE478EA64B DCE.C3ADCFDE-F159-971A-9B92-98985C65C5A2 DCE.AC93F4E0-7541-0D1D-8001-263C0E107889 DCE.550E0A31-EE2B-C50A-5442-4EE3F8B6B087 DCE.927A8949-4320-FCFC-67E8-05FA5391CCD2 DCE.1BDFBCCA-E4D4-48C7-CC57-77D6186A97A8 DCE.FE703013-2C4D-EB29-20F6-B028FD79F994 DCE.CDC091C3-2EF5-59C8-15FA-81D1A31D1CFC" incoming="DCE.CD9515CA-DBB8-7331-DBBD-FF36342335AB DCE.566ACFE0-E3D9-590D-FB02-C3DF8D948980 DCE.0FB960BC-4550-2E2C-20E6-B3190FE53952 DCE.80D1CCE5-2AF2-55C8-93A7-5409476B8BF0"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.0B207929-BD54-D104-363C-4D27290328B4" name="Unnamed" owner="DCE.D7120964-EB27-BEFF-DD93-7D6AB2AFF625"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:State>
+
+<UML:Transition xmi.id="DCE.CD9515CA-DBB8-7331-DBBD-FF36342335AB" source="DCE.341A0A29-CEFE-3BD2-6DE7-F83FBB553D34" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.D7120964-EB27-BEFF-DD93-7D6AB2AFF625" name="Reiziger is aangekomen"><UML:Element.presentation>
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.0D3BF1FB-FBE1-6232-2563-9F0CE6F75C49"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.AF26DBAB-6034-17FF-F17A-95B6D9A21D58"/></UML:Transition.postCondition></UML:Transition>
+
+
+
+<UML:Transition xmi.id="DCE.BC8810DD-721B-291A-B56A-0267B8DA8C3F" source="DCE.0B1A4CC9-F080-3045-215D-E1DF09CF2A6C" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.1016F8B9-6D52-1A97-1A4A-4A37E4A0460D" name="Reizigers stappen in taxi"><UML:Element.presentation>
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.A5B0AB38-89C2-04A7-2240-B2E8C6E81BED"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.9725C114-9E1B-E1B1-CB22-37A4AE82E146"/></UML:Transition.postCondition></UML:Transition>
+<UML:State xmi.id="DCE.12754F2F-5A9B-8BF0-FE93-D0CC2A14B0A7" name="Taxi aangestuurd" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" isSimple="true" incoming="DCE.F67B6A22-9400-04F6-F2E4-2DB78CCE5A1A DCE.927A8949-4320-FCFC-67E8-05FA5391CCD2 DCE.1BDFBCCA-E4D4-48C7-CC57-77D6186A97A8 DCE.1FF4E030-34E0-FD23-9A82-D00AB9ED22FA" outgoing="DCE.C89C9E61-576F-7654-15A7-5053A1FCEB24 DCE.082A3C39-9D10-9EE2-B011-CA9789E76471 DCE.B6E5E6AC-2E07-6AF5-0EAF-A31CF48E2DB0 DCE.8D501B6D-6101-1815-CB10-BD6E6E8F1792"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.00FECFCF-628C-950B-1A94-407F61D5090A" name="Unnamed" owner="DCE.12754F2F-5A9B-8BF0-FE93-D0CC2A14B0A7"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:State>
+
+<UML:State xmi.id="DCE.EA20A6B2-6534-68FD-6C20-5FFAF26FB48F" name="Taxi arriveerd" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" isSimple="true" outgoing="DCE.566ACFE0-E3D9-590D-FB02-C3DF8D948980" incoming="DCE.21B617DF-995E-7A53-8FCA-BB3877232C7E DCE.082A3C39-9D10-9EE2-B011-CA9789E76471"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.CF3724E8-2F3B-6393-45B8-CDB05C096158" name="Unnamed" owner="DCE.EA20A6B2-6534-68FD-6C20-5FFAF26FB48F"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:State>
+<UML:Transition xmi.id="DCE.566ACFE0-E3D9-590D-FB02-C3DF8D948980" source="DCE.EA20A6B2-6534-68FD-6C20-5FFAF26FB48F" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.D7120964-EB27-BEFF-DD93-7D6AB2AFF625" name="Reizigers stappen uit"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.1D24DF3D-FD9D-19FC-4F1E-7B7427297BE4"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.A74DD3DA-903F-0935-8226-A7A94D7C5FEB"/></UML:Transition.postCondition></UML:Transition>
+
+<UML:Transition xmi.id="DCE.0FB960BC-4550-2E2C-20E6-B3190FE53952" source="DCE.0B1A4CC9-F080-3045-215D-E1DF09CF2A6C" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.D7120964-EB27-BEFF-DD93-7D6AB2AFF625" name="Reizigers stappen in taxi"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.D6314FDB-25F5-8ACD-8AF3-67578880E90C"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.5BA5EAAA-A6A7-4FAC-EECD-740F763C1367"/></UML:Transition.postCondition></UML:Transition>
+
+
+<UML:Transition xmi.id="DCE.C89C9E61-576F-7654-15A7-5053A1FCEB24" source="DCE.12754F2F-5A9B-8BF0-FE93-D0CC2A14B0A7" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.591BF4A0-ED15-B844-8103-46D028BF4D92" name="Taxi wordt aangestuurd"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.32D10D1F-81D7-4810-178B-4479BCF17918"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.F26E2DD7-8CD6-440F-9B2F-E43F2CE5B1E9"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.21B617DF-995E-7A53-8FCA-BB3877232C7E" source="DCE.591BF4A0-ED15-B844-8103-46D028BF4D92" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.EA20A6B2-6534-68FD-6C20-5FFAF26FB48F" name="Taxi komt station binnen"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.192FDFE1-7ECF-FF2C-BE63-0490D624C3D0"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.0AA4F3A4-B8E7-69E2-FC80-54D57B55D380"/></UML:Transition.postCondition></UML:Transition>
+
+
+
+
+
+<UML:Transition xmi.id="DCE.550E0A31-EE2B-C50A-5442-4EE3F8B6B087" source="DCE.D7120964-EB27-BEFF-DD93-7D6AB2AFF625" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.6D4F4152-89E7-DE75-CB1E-99B9EB714BCE"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.66589B99-CABC-D691-1DEB-A78A862BA158"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.CA2C727E-5964-2EA1-A3D2-E302E305EB55"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.09E6EC68-708D-87F6-3FCF-D9AC07DDDF0B" source="DCE.0B1A4CC9-F080-3045-215D-E1DF09CF2A6C" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.1016F8B9-6D52-1A97-1A4A-4A37E4A0460D" name="Reizigers stappen in taxi"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.1C545AB8-6B8A-AEF2-9492-B1E4444E8879"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.16709BD9-F4FC-A107-5F92-4A7845CEE922"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.E821D927-BB6B-A19B-710F-823C0D69F67D" source="DCE.1016F8B9-6D52-1A97-1A4A-4A37E4A0460D" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.0A180A85-D148-5EC5-0AB0-1296E16E9884"><UML:Element.presentation>
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.89662707-3B43-0E26-4377-5CCD5BEF05D4"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.542D9774-1B14-E4A3-95FA-1AFB855A7AE0"/></UML:Transition.postCondition></UML:Transition>
+
+
+<UML:Transition xmi.id="DCE.B618A63C-9712-1314-AE6A-F0F8FEC97245" source="DCE.1A94F2BD-02E0-9A23-19B2-C8CC39D978DE" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.0B34B351-0484-B1C2-4A7C-BEAE90E33495"><UML:Element.presentation>
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.D74C23CB-3093-56B9-181D-28B6EAFEC053"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.0D572AC6-776E-60C5-F4A7-5733419B5F58"/></UML:Transition.postCondition></UML:Transition>
+
+
+<UML:Transition xmi.id="DCE.1BDFBCCA-E4D4-48C7-CC57-77D6186A97A8" source="DCE.D7120964-EB27-BEFF-DD93-7D6AB2AFF625" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.12754F2F-5A9B-8BF0-FE93-D0CC2A14B0A7" name="[Route gepland] Rij naar vertrekpunt"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.82F8D01A-6942-33E1-9D73-EF34A9C16D43"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.2973F9F9-BEAB-AECB-3DBD-BAF2D4B2348F"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.082A3C39-9D10-9EE2-B011-CA9789E76471" source="DCE.12754F2F-5A9B-8BF0-FE93-D0CC2A14B0A7" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.EA20A6B2-6534-68FD-6C20-5FFAF26FB48F" name="Taxi komt aan"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.9526337A-317A-A754-BA45-AC94E448EA6A"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.52BC5322-2A31-570F-962A-FA1F53AFA721"/></UML:Transition.postCondition></UML:Transition>
+
+<UML:Transition xmi.id="DCE.8D501B6D-6101-1815-CB10-BD6E6E8F1792" source="DCE.12754F2F-5A9B-8BF0-FE93-D0CC2A14B0A7" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.D41A7240-7340-E623-7D63-14C92436ED30" name="Taxi bij station"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.630A95B5-506A-F4FF-B314-C49911ADA397"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.F474BA7A-7AAA-9069-B70D-7DFAED616914"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.1FF4E030-34E0-FD23-9A82-D00AB9ED22FA" source="DCE.341A0A29-CEFE-3BD2-6DE7-F83FBB553D34" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.12754F2F-5A9B-8BF0-FE93-D0CC2A14B0A7" name="Rij naar bestemming"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.59ECC1F0-6F4E-2B26-C882-0D587681BD47"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.B259393C-380E-49F9-CA72-A96257798DA4"/></UML:Transition.postCondition></UML:Transition>
+
+<UML:Transition xmi.id="DCE.CDC091C3-2EF5-59C8-15FA-81D1A31D1CFC" source="DCE.D7120964-EB27-BEFF-DD93-7D6AB2AFF625" owner="DCE.A2C9EEF2-435F-CC3D-0B25-B3B2C0B74C48" target="DCE.D41A7240-7340-E623-7D63-14C92436ED30" name="[Route gepland &amp; Op vertrekpunt]"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.C92AE73F-E373-047B-4344-8AE4E1D0FEAB"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.740B4402-B39F-59BE-4E3D-C80450EEAD36"/></UML:Transition.postCondition></UML:Transition></UML:Element.ownedElement></UML:Region></UML:Element.ownedElement></UML:StateMachine>
+<UML:Interaction xmi.id="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" name="Sequense Diagram" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Lifeline xmi.id="DCE.559A4279-9545-67F8-59F8-7E217E882660" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" events="DCE.9A663F81-32A9-FBB9-39FD-8F0CC0C2C89A DCE.3CCF092C-5000-2B6F-41A7-37F2B7562170" represents="DCE.834BB293-7A57-7093-F41D-28159BD6A24A"><UML:Element.presentation>
+
+
+
+
+
+</UML:Element.presentation></UML:Lifeline>
+<UML:Lifeline xmi.id="DCE.AD4B6F77-8A5B-EA80-3159-F6DF1D4C22FA" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" represents="DCE.3E74E22A-8B26-0BFB-EC2F-C9E797BB975B" events="DCE.C1A77E26-1573-1A4F-A356-2550A31A1696 DCE.5AAB7192-5EA6-F684-9EEA-823072E9AD10 DCE.E5BE3B7A-D253-F9BE-FADB-F07D7F17F109 DCE.A4979CED-3E38-983E-38D5-6DCF7509FF70 DCE.70FC7756-B981-9C8F-32EE-65F630FAC11C DCE.84B359FF-E8F2-42E4-5A83-C474CD7DAB88 DCE.6736CF17-C3E9-67FC-DEBB-EF410B8031D5 DCE.5219520B-0A36-DC81-9E7D-9A1146D05C8F DCE.266BCB01-3BAA-EF96-1335-EFF3B27E7925 DCE.4F88D3E8-CB37-5351-4425-89A897961756"><UML:Element.presentation>
+
+
+
+
+
+</UML:Element.presentation></UML:Lifeline>
+<UML:AtomicFragment xmi.id="DCE.D73DE934-AC0C-C27A-FD62-03AEC30C7F6A" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"><UML:AtomicFragment.implicitGate>
+<UML:Gate xmi.id="DCE.097C37C4-2661-5B3C-6DD1-1DB35E96D593" fromConnector="DCE.DB7B90DC-62C5-9F15-C2B7-A6E4F796101D"/></UML:AtomicFragment.implicitGate><UML:Element.ownedElement>
+<UML:EventOccurrence xmi.id="DCE.9A663F81-32A9-FBB9-39FD-8F0CC0C2C89A" owner="DCE.D73DE934-AC0C-C27A-FD62-03AEC30C7F6A" startExec="DCE.58DDD06A-7E80-1BD5-056D-89893CCBCC94" lifeline="DCE.559A4279-9545-67F8-59F8-7E217E882660" sendMessage="DCE.55180002-72EF-8FF5-6256-59EAF07FF246"/></UML:Element.ownedElement></UML:AtomicFragment>
+<UML:AtomicFragment xmi.id="DCE.56912218-E12F-38D1-F2A6-BC7CE1FA9FA3" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"><UML:AtomicFragment.implicitGate>
+<UML:Gate xmi.id="DCE.1E93C8FE-A43F-568C-A8AF-53057CD87A25" toConnector="DCE.DB7B90DC-62C5-9F15-C2B7-A6E4F796101D"/></UML:AtomicFragment.implicitGate><UML:Element.ownedElement>
+<UML:EventOccurrence xmi.id="DCE.C1A77E26-1573-1A4F-A356-2550A31A1696" owner="DCE.56912218-E12F-38D1-F2A6-BC7CE1FA9FA3" finishExec="DCE.24245AAD-5FFF-3807-434B-CE58D2F90B91" lifeline="DCE.AD4B6F77-8A5B-EA80-3159-F6DF1D4C22FA" receiveMessage="DCE.55180002-72EF-8FF5-6256-59EAF07FF246"/></UML:Element.ownedElement></UML:AtomicFragment>
+<UML:UninterpretedAction xmi.id="DCE.AC294379-479E-349A-9FDB-EDC8C21CADA4" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:ActionOccurrence xmi.id="DCE.58DDD06A-7E80-1BD5-056D-89893CCBCC94" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" action="DCE.AC294379-479E-349A-9FDB-EDC8C21CADA4" start="DCE.9A663F81-32A9-FBB9-39FD-8F0CC0C2C89A"/>
+
+<UML:UninterpretedAction xmi.id="DCE.6E400B41-70EE-3A83-108A-01AC0B0153DD" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:ActionOccurrence xmi.id="DCE.24245AAD-5FFF-3807-434B-CE58D2F90B91" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" action="DCE.6E400B41-70EE-3A83-108A-01AC0B0153DD" finish="DCE.C1A77E26-1573-1A4F-A356-2550A31A1696"/>
+
+<UML:AtomicFragment xmi.id="DCE.9E778CE4-DE21-1A19-37EA-EB0BEB151336" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"><UML:AtomicFragment.implicitGate>
+<UML:Gate xmi.id="DCE.85479C66-2EB9-CB6B-A1E0-770BC8D8C12D" fromConnector="DCE.6A8BF325-442C-E0ED-6C3C-8D0329057F56"/></UML:AtomicFragment.implicitGate><UML:Element.ownedElement>
+<UML:EventOccurrence xmi.id="DCE.5AAB7192-5EA6-F684-9EEA-823072E9AD10" owner="DCE.9E778CE4-DE21-1A19-37EA-EB0BEB151336" startExec="DCE.C97BFBFD-F453-ABCF-FD5A-3801211F5977" lifeline="DCE.AD4B6F77-8A5B-EA80-3159-F6DF1D4C22FA" sendMessage="DCE.908B2F4C-0B0A-63FD-C744-851E760E0D3A"/></UML:Element.ownedElement></UML:AtomicFragment>
+<UML:AtomicFragment xmi.id="DCE.977F3C42-D94F-307F-3422-34C9C0AF8E21" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"><UML:AtomicFragment.implicitGate>
+<UML:Gate xmi.id="DCE.D4C9D3D3-D7A0-B9EB-389A-3C0AF29BBD92" toConnector="DCE.6A8BF325-442C-E0ED-6C3C-8D0329057F56"/></UML:AtomicFragment.implicitGate><UML:Element.ownedElement>
+<UML:EventOccurrence xmi.id="DCE.3CCF092C-5000-2B6F-41A7-37F2B7562170" owner="DCE.977F3C42-D94F-307F-3422-34C9C0AF8E21" finishExec="DCE.4C08C85D-90CF-45FE-F0E8-509B2EFE3877" lifeline="DCE.559A4279-9545-67F8-59F8-7E217E882660" receiveMessage="DCE.908B2F4C-0B0A-63FD-C744-851E760E0D3A"/></UML:Element.ownedElement></UML:AtomicFragment>
+<UML:UninterpretedAction xmi.id="DCE.8BD375A2-D7D7-1384-89EE-B5313AEE405D" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:ActionOccurrence xmi.id="DCE.C97BFBFD-F453-ABCF-FD5A-3801211F5977" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" action="DCE.8BD375A2-D7D7-1384-89EE-B5313AEE405D" start="DCE.5AAB7192-5EA6-F684-9EEA-823072E9AD10"/>
+
+<UML:UninterpretedAction xmi.id="DCE.43F98E52-3CE4-16CC-EFCA-DCB485DC82E8" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:ActionOccurrence xmi.id="DCE.4C08C85D-90CF-45FE-F0E8-509B2EFE3877" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" action="DCE.43F98E52-3CE4-16CC-EFCA-DCB485DC82E8" finish="DCE.3CCF092C-5000-2B6F-41A7-37F2B7562170"/>
+
+<UML:Lifeline xmi.id="DCE.426AEC94-94F4-0E9C-FFDD-8A53F46A9CA0" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" represents="DCE.F3D763DF-BFDB-B843-BF2F-B6D00979151D" events="DCE.8E2F8452-6FF9-F5A6-41FE-E8FB5186ECA7 DCE.320725DB-97BA-E6FC-4ACB-F3D0C91077DC DCE.071E54C3-B7B3-2686-2623-2B132B1CCF37 DCE.7C035EED-46F8-B7F4-945D-EDEE6627FDAA DCE.211D73F1-AEF5-EA55-4210-CAE2372D5B7A DCE.238A175E-E9B7-AF7D-634F-584FDEE07B38 DCE.AE7647D2-C5F5-D79F-46FE-2F0539F32160 DCE.A1B4402B-AD7B-0531-035D-8976FCC74F36"><UML:Element.presentation>
+
+
+
+
+
+</UML:Element.presentation></UML:Lifeline>
+
+
+<UML:UninterpretedAction xmi.id="DCE.2635F31C-D61F-4FE8-DA17-396A7D041D46" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:UninterpretedAction xmi.id="DCE.35B8E83B-9EF1-BE33-F980-14D0AC4CD413" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:MessageConnector xmi.id="DCE.CD6CBCFC-D0E7-23DD-F20D-F31F1626D75F" visibility="private" name="Unnamed" fromLine="DCE.AD4B6F77-8A5B-EA80-3159-F6DF1D4C22FA" toLine="DCE.AD4B6F77-8A5B-EA80-3159-F6DF1D4C22FA" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" message="DCE.7A6EE55D-1DFE-CD4B-E1A4-CEB5665EC698 DCE.BB23C5B5-0EC0-4D42-133D-5E44AC2C8027"><UML:Element.ownedElement>
+<UML:ConnectorEnd xmi.id="DCE.8EE8405E-3817-1B31-D932-659EE6523802" part="DCE.92299C4E-54E1-78E2-4137-C6DF040EDC0B" owner="DCE.CD6CBCFC-D0E7-23DD-F20D-F31F1626D75F"/>
+<UML:ConnectorEnd xmi.id="DCE.F05FACC0-7520-8306-BBD8-128EC46C6219" part="DCE.92299C4E-54E1-78E2-4137-C6DF040EDC0B" owner="DCE.CD6CBCFC-D0E7-23DD-F20D-F31F1626D75F"/></UML:Element.ownedElement></UML:MessageConnector>
+
+
+<UML:UninterpretedAction xmi.id="DCE.2C964C0F-D11D-8A06-60A0-C6EF577600BB" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:UninterpretedAction xmi.id="DCE.F50E973F-BE73-7610-FC71-A22BA42B17E5" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+
+
+<UML:UninterpretedAction xmi.id="DCE.0F0931B3-994F-CFD1-34A0-3AB72CFB4B25" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:UninterpretedAction xmi.id="DCE.A599FFCA-4DCB-4F13-C430-A3C1414CA0A2" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:MessageConnector xmi.id="DCE.7B994C1C-A39B-7E65-C302-84A8A1FC38F2" visibility="private" name="Unnamed" fromLine="DCE.AD4B6F77-8A5B-EA80-3159-F6DF1D4C22FA" toLine="DCE.426AEC94-94F4-0E9C-FFDD-8A53F46A9CA0" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" message="DCE.E6A76963-6368-1C07-C9BB-A39A33ECD74B DCE.A7B92FAB-3382-4ED1-F1D9-446E27A343C2 DCE.21EE59D9-8010-086B-4F57-C0992F4F15B6 DCE.0F496DB4-C094-5F33-2366-B5A8CC692027"><UML:Element.ownedElement>
+<UML:ConnectorEnd xmi.id="DCE.6FB71496-9418-9744-F55D-B77637D7AD97" part="DCE.92299C4E-54E1-78E2-4137-C6DF040EDC0B" owner="DCE.7B994C1C-A39B-7E65-C302-84A8A1FC38F2"/>
+<UML:ConnectorEnd xmi.id="DCE.E12C3696-615B-7341-3916-37BBDC53001E" part="DCE.99CED7AC-9161-0C19-0D00-E390485C2F1E" owner="DCE.7B994C1C-A39B-7E65-C302-84A8A1FC38F2"/></UML:Element.ownedElement></UML:MessageConnector>
+
+
+<UML:UninterpretedAction xmi.id="DCE.18EDD9F7-B86D-7813-F70B-245D56C513B5" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:UninterpretedAction xmi.id="DCE.2ED3A508-C1CB-FE10-9DCD-111DF0DCF96D" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+
+
+
+<UML:UninterpretedAction xmi.id="DCE.A35784F4-C9AD-4115-5EFD-6DEDBF721FA5" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:UninterpretedAction xmi.id="DCE.8EEC12AD-CF05-39E6-EF40-7CEF82B14B5A" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:MessageConnector xmi.id="DCE.418049BE-4593-A0BE-0DA6-8E5C4ACFD2FC" visibility="private" name="Unnamed" fromLine="DCE.426AEC94-94F4-0E9C-FFDD-8A53F46A9CA0" toLine="DCE.70CC52F6-6D87-B56E-B5C2-C0C1879EB777" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" message="DCE.28EB5B75-20AA-EB87-D660-8C6841101C90 DCE.79969F51-DE80-128C-6548-23A962BED2D6 DCE.D12133E3-B084-E9D0-FD49-A3C76B011681 DCE.5198B079-CCF8-B931-4249-4BDEEBAB7DB4"><UML:Element.ownedElement>
+<UML:ConnectorEnd xmi.id="DCE.A2FEA890-4A90-A2C5-157F-67032477F791" part="DCE.99CED7AC-9161-0C19-0D00-E390485C2F1E" owner="DCE.418049BE-4593-A0BE-0DA6-8E5C4ACFD2FC"/>
+<UML:ConnectorEnd xmi.id="DCE.8B61B7CD-43E1-8558-7EB7-2418A60260D5" part="DCE.AFBA3F00-2FE8-0206-5112-A4CC28260B62" owner="DCE.418049BE-4593-A0BE-0DA6-8E5C4ACFD2FC"/></UML:Element.ownedElement></UML:MessageConnector>
+<UML:AtomicFragment xmi.id="DCE.62CF3C58-D9BA-D730-4A9F-E0D487764319" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"><UML:AtomicFragment.implicitGate>
+<UML:Gate xmi.id="DCE.67302592-9955-D881-83F8-9BBD307E915E" fromConnector="DCE.D47F521B-AB4D-2A6C-A844-22D381BBA862"/></UML:AtomicFragment.implicitGate><UML:Element.ownedElement>
+<UML:EventOccurrence xmi.id="DCE.266BCB01-3BAA-EF96-1335-EFF3B27E7925" owner="DCE.62CF3C58-D9BA-D730-4A9F-E0D487764319" startExec="DCE.8969AE4E-D882-6985-755F-4A05D0714AEA" lifeline="DCE.AD4B6F77-8A5B-EA80-3159-F6DF1D4C22FA" sendMessage="DCE.21EE59D9-8010-086B-4F57-C0992F4F15B6"/></UML:Element.ownedElement></UML:AtomicFragment>
+<UML:AtomicFragment xmi.id="DCE.03D1B22E-18C8-3FE9-5A20-0D1E7731639F" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"><UML:AtomicFragment.implicitGate>
+<UML:Gate xmi.id="DCE.A2666BB2-29A5-8AF3-844F-4FB5D53A422F" toConnector="DCE.D47F521B-AB4D-2A6C-A844-22D381BBA862"/></UML:AtomicFragment.implicitGate><UML:Element.ownedElement>
+<UML:EventOccurrence xmi.id="DCE.7C035EED-46F8-B7F4-945D-EDEE6627FDAA" owner="DCE.03D1B22E-18C8-3FE9-5A20-0D1E7731639F" finishExec="DCE.A356940B-96A8-E60E-9741-8F3D67F8202D" lifeline="DCE.426AEC94-94F4-0E9C-FFDD-8A53F46A9CA0" receiveMessage="DCE.21EE59D9-8010-086B-4F57-C0992F4F15B6"/></UML:Element.ownedElement></UML:AtomicFragment>
+<UML:UninterpretedAction xmi.id="DCE.12B557C3-D584-852C-89A7-05CAD21BDEF8" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:ActionOccurrence xmi.id="DCE.8969AE4E-D882-6985-755F-4A05D0714AEA" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" action="DCE.12B557C3-D584-852C-89A7-05CAD21BDEF8" start="DCE.266BCB01-3BAA-EF96-1335-EFF3B27E7925"/>
+
+<UML:UninterpretedAction xmi.id="DCE.853A6A2B-4094-563B-AC6E-D5C75E8316BF" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:ActionOccurrence xmi.id="DCE.A356940B-96A8-E60E-9741-8F3D67F8202D" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" action="DCE.853A6A2B-4094-563B-AC6E-D5C75E8316BF" finish="DCE.7C035EED-46F8-B7F4-945D-EDEE6627FDAA"/>
+
+<UML:AtomicFragment xmi.id="DCE.001DBC77-B5DF-6C3E-C361-8930849E2986" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"><UML:AtomicFragment.implicitGate>
+<UML:Gate xmi.id="DCE.002A5C17-EC4D-E567-5172-E1A66BD49625" fromConnector="DCE.F1A6276F-B93B-1E0D-A838-561A2FDF0FCC"/></UML:AtomicFragment.implicitGate><UML:Element.ownedElement>
+<UML:EventOccurrence xmi.id="DCE.211D73F1-AEF5-EA55-4210-CAE2372D5B7A" owner="DCE.001DBC77-B5DF-6C3E-C361-8930849E2986" startExec="DCE.FBD304E9-063D-C064-ED95-BB4C795577D2" lifeline="DCE.426AEC94-94F4-0E9C-FFDD-8A53F46A9CA0" sendMessage="DCE.0F496DB4-C094-5F33-2366-B5A8CC692027"/></UML:Element.ownedElement></UML:AtomicFragment>
+<UML:AtomicFragment xmi.id="DCE.D6E14126-90DC-0738-A867-81730E93461C" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"><UML:AtomicFragment.implicitGate>
+<UML:Gate xmi.id="DCE.D0F0B098-3581-500C-D9FE-43256CE06CEA" toConnector="DCE.F1A6276F-B93B-1E0D-A838-561A2FDF0FCC"/></UML:AtomicFragment.implicitGate><UML:Element.ownedElement>
+<UML:EventOccurrence xmi.id="DCE.4F88D3E8-CB37-5351-4425-89A897961756" owner="DCE.D6E14126-90DC-0738-A867-81730E93461C" finishExec="DCE.4A4E5E21-AAAA-E9DE-F784-ACBEA0B8E91A" lifeline="DCE.AD4B6F77-8A5B-EA80-3159-F6DF1D4C22FA" receiveMessage="DCE.0F496DB4-C094-5F33-2366-B5A8CC692027"/></UML:Element.ownedElement></UML:AtomicFragment>
+<UML:UninterpretedAction xmi.id="DCE.B3FA81B1-E454-2373-6295-180C653AD09E" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:ActionOccurrence xmi.id="DCE.FBD304E9-063D-C064-ED95-BB4C795577D2" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" action="DCE.B3FA81B1-E454-2373-6295-180C653AD09E" start="DCE.211D73F1-AEF5-EA55-4210-CAE2372D5B7A"/>
+
+<UML:UninterpretedAction xmi.id="DCE.E4F8E131-816C-E6C8-6A9A-36E8F9ACC438" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:ActionOccurrence xmi.id="DCE.4A4E5E21-AAAA-E9DE-F784-ACBEA0B8E91A" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" action="DCE.E4F8E131-816C-E6C8-6A9A-36E8F9ACC438" finish="DCE.4F88D3E8-CB37-5351-4425-89A897961756"/>
+
+
+
+<UML:UninterpretedAction xmi.id="DCE.A5DAD161-C121-CA50-3C44-552BD896D9F7" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:UninterpretedAction xmi.id="DCE.3B9D4219-2B2F-7284-C32D-506727D777C5" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+
+
+<UML:UninterpretedAction xmi.id="DCE.0C723BC2-AD39-37A5-8A2F-BBCF8635E154" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:UninterpretedAction xmi.id="DCE.B896C402-9FD2-3B6C-20CF-B00FD9181260" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+
+
+
+<UML:UninterpretedAction xmi.id="DCE.71732A70-2FED-6E53-2C4D-5359F326BF25" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:UninterpretedAction xmi.id="DCE.949C4650-68D6-8406-22BF-8A1A0D1ADFF9" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+
+
+<UML:UninterpretedAction xmi.id="DCE.3D21909E-41F4-ED52-256D-6506E3E6E820" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:UninterpretedAction xmi.id="DCE.D71848A2-B37E-C1C4-BA45-A28C8D167E22" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:MessageConnector xmi.id="DCE.2E720209-E166-CED7-87DF-07EF653CBF3F" visibility="private" name="Unnamed" fromLine="DCE.70CC52F6-6D87-B56E-B5C2-C0C1879EB777" toLine="DCE.7EC23B75-2A2F-6BC0-B19A-4538D9F509A9" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" message="DCE.8D4EF8D7-688F-3215-8190-53FB72864C85 DCE.30D6D39F-9487-6615-7EC6-740D27E03624"><UML:Element.ownedElement>
+<UML:ConnectorEnd xmi.id="DCE.9610AEC3-9398-5DE4-4E71-7C8E39872221" part="DCE.0CE96D0B-A2F9-FE92-3C2D-B1896722AFC1" owner="DCE.2E720209-E166-CED7-87DF-07EF653CBF3F"/>
+<UML:ConnectorEnd xmi.id="DCE.C6782046-5221-8D27-B859-085CADBD9D94" part="DCE.C62FE348-4531-06A8-0ED0-BDA8DB3C9F71" owner="DCE.2E720209-E166-CED7-87DF-07EF653CBF3F"/></UML:Element.ownedElement></UML:MessageConnector>
+
+
+<UML:UninterpretedAction xmi.id="DCE.2DE2EBAB-F659-4D43-9B4B-9D705C8BAF92" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+
+<UML:UninterpretedAction xmi.id="DCE.6F8B70FD-452B-4DF1-4257-E1537C4ACD5A" owner="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+
+</UML:Element.ownedElement><UML:InteractionFragment.gateConnector>
+<UML:InterGateConnector xmi.id="DCE.DB7B90DC-62C5-9F15-C2B7-A6E4F796101D" fromGate="DCE.097C37C4-2661-5B3C-6DD1-1DB35E96D593" toGate="DCE.1E93C8FE-A43F-568C-A8AF-53057CD87A25" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.6A8BF325-442C-E0ED-6C3C-8D0329057F56" fromGate="DCE.85479C66-2EB9-CB6B-A1E0-770BC8D8C12D" toGate="DCE.D4C9D3D3-D7A0-B9EB-389A-3C0AF29BBD92" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.5E3ADA37-B93E-3584-4FD2-110FFE322AA4" fromGate="DCE.FE2F3574-E2CF-586D-7C65-8B9BCE257216" toGate="DCE.E0093F86-E622-6CF4-3011-D08CCE31CF43" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.D9F08A11-19A7-C034-D3CF-880F92337F0B" fromGate="DCE.B9CE3A96-4CF0-AF6B-927F-DEF0297F29A7" toGate="DCE.43476072-7D22-3641-3744-857F40EAF5DF" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.13D1961E-F87C-C147-FBDD-C1279C390D03" fromGate="DCE.7DB5C357-0D44-697B-7AD7-F238953452DC" toGate="DCE.7B2D6864-DFBE-566D-BA8A-064040F01A40" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.D2EA507E-9A33-C8EA-05FD-288ED80A29CA" fromGate="DCE.98328A47-8560-D409-7856-014A915511CF" toGate="DCE.28781DA3-8534-E54F-4678-8CAB60A03765" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.A9230184-E5E3-1B80-9E44-97E9BADB068A" fromGate="DCE.D77D41B4-5A9F-70C0-290C-86EFE0A6A97A" toGate="DCE.8134093C-C259-01EE-49D8-1C64E43BB6F9" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.D47F521B-AB4D-2A6C-A844-22D381BBA862" fromGate="DCE.67302592-9955-D881-83F8-9BBD307E915E" toGate="DCE.A2666BB2-29A5-8AF3-844F-4FB5D53A422F" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.F1A6276F-B93B-1E0D-A838-561A2FDF0FCC" fromGate="DCE.002A5C17-EC4D-E567-5172-E1A66BD49625" toGate="DCE.D0F0B098-3581-500C-D9FE-43256CE06CEA" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.E6BAE5A9-EDCC-7E1E-D8CE-625C9009F31C" fromGate="DCE.234114B3-E169-3AC5-B73F-DAB790378485" toGate="DCE.072D554A-E082-8EA1-5E48-A577E4575858" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.C26800E3-89FB-E41F-5791-73846A22E25E" fromGate="DCE.8ED9554A-14C2-C67B-456D-41D518B754D8" toGate="DCE.9538036B-D52C-2C8E-2D40-E4B7FB84C3A2" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.825C4973-7638-2BB7-82A0-8E5580E5C06A" fromGate="DCE.124F5132-5926-6516-2D81-986355F8E02F" toGate="DCE.B4C0BB28-5B72-26C5-1BB5-67C2F6490683" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.AE13E7D7-A62F-84DD-2585-E872D91E4E5C" fromGate="DCE.6593E790-3E76-514D-2688-1975FAB4AF11" toGate="DCE.9C8C258F-5968-245B-E03D-BCB72880A0EB" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/>
+<UML:InterGateConnector xmi.id="DCE.732FF2A7-26C1-98FC-5358-576B02844C20" fromGate="DCE.5EAF8BE3-DAE5-D537-F97B-FFE5262BA63B" toGate="DCE.4C394E91-55DF-AA88-3023-924EAFCE6696" fragment="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54"/></UML:InteractionFragment.gateConnector><UML:Interaction.message><UML:Message xmi.id="DCE.55180002-72EF-8FF5-6256-59EAF07FF246" sendEvent="DCE.9A663F81-32A9-FBB9-39FD-8F0CC0C2C89A" receiveEvent="DCE.C1A77E26-1573-1A4F-A356-2550A31A1696" initiatingAction="DCE.58DDD06A-7E80-1BD5-056D-89893CCBCC94" interaction="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" kind="synchronous" name="Start simulatie"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Message><UML:Message xmi.id="DCE.21EE59D9-8010-086B-4F57-C0992F4F15B6" sendEvent="DCE.266BCB01-3BAA-EF96-1335-EFF3B27E7925" receiveEvent="DCE.7C035EED-46F8-B7F4-945D-EDEE6627FDAA" initiatingAction="DCE.8969AE4E-D882-6985-755F-4A05D0714AEA" interaction="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" kind="synchronous" name="Start A.I."><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Message><UML:Message xmi.id="DCE.0F496DB4-C094-5F33-2366-B5A8CC692027" sendEvent="DCE.211D73F1-AEF5-EA55-4210-CAE2372D5B7A" receiveEvent="DCE.4F88D3E8-CB37-5351-4425-89A897961756" initiatingAction="DCE.FBD304E9-063D-C064-ED95-BB4C795577D2" interaction="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" kind="result" sendingMessage="DCE.21EE59D9-8010-086B-4F57-C0992F4F15B6"><UML:Element.presentation>
+
+
+
+
+</UML:Element.presentation></UML:Message><UML:Message xmi.id="DCE.908B2F4C-0B0A-63FD-C744-851E760E0D3A" sendEvent="DCE.5AAB7192-5EA6-F684-9EEA-823072E9AD10" receiveEvent="DCE.3CCF092C-5000-2B6F-41A7-37F2B7562170" initiatingAction="DCE.C97BFBFD-F453-ABCF-FD5A-3801211F5977" interaction="DCE.504B6849-C435-71F1-25FE-B3E1364BAB54" kind="result" sendingMessage="DCE.55180002-72EF-8FF5-6256-59EAF07FF246" name="Stop simulatie"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:Message></UML:Interaction.message></UML:Interaction>
+<UML:Class xmi.id="DCE.CC9B829F-9715-C699-BF5D-4E599E090B1B" name="Start simulatie" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Part xmi.id="DCE.92299C4E-54E1-78E2-4137-C6DF040EDC0B" visibility="private" name="Unnamed" type="DCE.CC9B829F-9715-C699-BF5D-4E599E090B1B" owner="DCE.CC9B829F-9715-C699-BF5D-4E599E090B1B" end="DCE.8EE8405E-3817-1B31-D932-659EE6523802 DCE.F05FACC0-7520-8306-BBD8-128EC46C6219 DCE.6FB71496-9418-9744-F55D-B77637D7AD97"/></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.3BF8499C-94B0-5C9B-331E-F559916139FF" name="Voer " owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Part xmi.id="DCE.D9680108-B7B0-0E5C-670B-3606684FFE7B" visibility="private" name="Unnamed" type="DCE.3BF8499C-94B0-5C9B-331E-F559916139FF" owner="DCE.3BF8499C-94B0-5C9B-331E-F559916139FF"/></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.25A80F67-FB87-949B-6840-354D8368C224" name="Instellingen maken" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Part xmi.id="DCE.99CED7AC-9161-0C19-0D00-E390485C2F1E" visibility="private" name="Unnamed" type="DCE.25A80F67-FB87-949B-6840-354D8368C224" owner="DCE.25A80F67-FB87-949B-6840-354D8368C224" end="DCE.E12C3696-615B-7341-3916-37BBDC53001E DCE.A2FEA890-4A90-A2C5-157F-67032477F791"/></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.CC58577D-6F15-656F-310F-0548C3790C87" name="Start A.I." owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Part xmi.id="DCE.AFBA3F00-2FE8-0206-5112-A4CC28260B62" visibility="private" name="Unnamed" type="DCE.CC58577D-6F15-656F-310F-0548C3790C87" owner="DCE.CC58577D-6F15-656F-310F-0548C3790C87" end="DCE.8B61B7CD-43E1-8558-7EB7-2418A60260D5"/></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.31CB3334-73F2-CD21-B89E-2CA58E2855FC" name="Simulatie draaid" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Part xmi.id="DCE.BFCD9082-D44C-A569-16A1-AD1D3C29F54B" visibility="private" name="Unnamed" type="DCE.31CB3334-73F2-CD21-B89E-2CA58E2855FC" owner="DCE.31CB3334-73F2-CD21-B89E-2CA58E2855FC"/></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.1FC71E2A-764D-5C68-7C7E-4ADBAC66E15C" name="Intelligents" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Part xmi.id="DCE.155BEEE3-FF53-0F5A-AB7E-FD86FF1D3737" visibility="private" name="Unnamed" type="DCE.1FC71E2A-764D-5C68-7C7E-4ADBAC66E15C" owner="DCE.1FC71E2A-764D-5C68-7C7E-4ADBAC66E15C"/></UML:Element.ownedElement></UML:Class>
+<UML:Class xmi.id="DCE.6A0E3134-5B24-8005-1694-60D1A0F07E16" name="Taxi" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Part xmi.id="DCE.C62FE348-4531-06A8-0ED0-BDA8DB3C9F71" visibility="private" name="Unnamed" type="DCE.6A0E3134-5B24-8005-1694-60D1A0F07E16" owner="DCE.6A0E3134-5B24-8005-1694-60D1A0F07E16" end="DCE.C6782046-5221-8D27-B859-085CADBD9D94"/></UML:Element.ownedElement></UML:Class>
+<UML:StateMachine xmi.id="DCE.13B7DA96-E70C-F336-384F-C35AADC6BAF1" name="Taxi" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.C4C30BBA-AAAA-9943-4AE0-252791F9FACA" name="Unnamed" owner="DCE.13B7DA96-E70C-F336-384F-C35AADC6BAF1"><UML:Element.ownedElement>
+<UML:PseudoState xmi.id="DCE.8582C25D-110A-A98A-5273-AAD440C5CD0E" name="Unnamed" owner="DCE.C4C30BBA-AAAA-9943-4AE0-252791F9FACA" kind="initial" incoming="DCE.AC93F4E0-7541-0D1D-8001-263C0E107889" outgoing="DCE.80D1CCE5-2AF2-55C8-93A7-5409476B8BF0"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:PseudoState>
+<UML:FinalState xmi.id="DCE.6D4F4152-89E7-DE75-CB1E-99B9EB714BCE" name="Einde sim." owner="DCE.C4C30BBA-AAAA-9943-4AE0-252791F9FACA" incoming="DCE.550E0A31-EE2B-C50A-5442-4EE3F8B6B087"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:FinalState>
+<UML:Transition xmi.id="DCE.80D1CCE5-2AF2-55C8-93A7-5409476B8BF0" source="DCE.8582C25D-110A-A98A-5273-AAD440C5CD0E" owner="DCE.C4C30BBA-AAAA-9943-4AE0-252791F9FACA" target="DCE.D7120964-EB27-BEFF-DD93-7D6AB2AFF625"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.598080CE-52C4-2680-47B6-8256FB12CA9D"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.11F831B8-1737-B855-155C-8D731EA993D9"/></UML:Transition.postCondition></UML:Transition>
+<UML:State xmi.id="DCE.D41A7240-7340-E623-7D63-14C92436ED30" name="Taxi op vertrekpunt" owner="DCE.C4C30BBA-AAAA-9943-4AE0-252791F9FACA" isSimple="true" incoming="DCE.8D501B6D-6101-1815-CB10-BD6E6E8F1792 DCE.FE703013-2C4D-EB29-20F6-B028FD79F994 DCE.CDC091C3-2EF5-59C8-15FA-81D1A31D1CFC" outgoing="DCE.DC81C0C1-8745-D586-66AA-BC6D6EBB4FA0"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.2C485E3C-A503-825D-4710-96A0413DAF1B" name="Unnamed" owner="DCE.D41A7240-7340-E623-7D63-14C92436ED30"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+</UML:Element.presentation></UML:State>
+<UML:Transition xmi.id="DCE.DC81C0C1-8745-D586-66AA-BC6D6EBB4FA0" source="DCE.D41A7240-7340-E623-7D63-14C92436ED30" owner="DCE.C4C30BBA-AAAA-9943-4AE0-252791F9FACA" target="DCE.341A0A29-CEFE-3BD2-6DE7-F83FBB553D34" name="Reizigers stappen in"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.8E1C9285-11F4-9367-E58C-B743AA54FCD8"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.D4ABB239-462C-2643-42E2-98C3977C3A3E"/></UML:Transition.postCondition></UML:Transition></UML:Element.ownedElement></UML:Region></UML:Element.ownedElement></UML:StateMachine>
+<UML:StateMachine xmi.id="DCE.56D1DC98-055C-561C-CE29-DD78E06B087D" name="Station" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.388D6115-C675-266E-E4DB-0E13FEBEAFD3" name="Unnamed" owner="DCE.56D1DC98-055C-561C-CE29-DD78E06B087D"><UML:Element.ownedElement>
+<UML:PseudoState xmi.id="DCE.F42F7238-9F18-E02F-B4B5-AA06A3682075" name="Unnamed" owner="DCE.388D6115-C675-266E-E4DB-0E13FEBEAFD3" kind="initial" outgoing="DCE.F6042A17-343E-6A39-410F-5BB81AF3CE07 DCE.53A29D1D-D803-E3A6-D664-6E62206CA046"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:PseudoState>
+<UML:FinalState xmi.id="DCE.0A180A85-D148-5EC5-0AB0-1296E16E9884" name="Einde sim." owner="DCE.388D6115-C675-266E-E4DB-0E13FEBEAFD3" incoming="DCE.E821D927-BB6B-A19B-710F-823C0D69F67D DCE.5CBE6983-B4EF-2FE9-7300-606BE4268B7C"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:FinalState>
+<UML:Transition xmi.id="DCE.F6042A17-343E-6A39-410F-5BB81AF3CE07" source="DCE.F42F7238-9F18-E02F-B4B5-AA06A3682075" owner="DCE.388D6115-C675-266E-E4DB-0E13FEBEAFD3" target="DCE.1016F8B9-6D52-1A97-1A4A-4A37E4A0460D"><UML:Element.presentation>
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.16D08FE7-CC14-1A21-5ED0-4714179E82DF"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.03540428-4C39-F67E-F2A1-7B1B1430B10F"/></UML:Transition.postCondition></UML:Transition>
+<UML:State xmi.id="DCE.CF86B9F6-9943-20C2-766D-90F1C1793BEB" name="Station bevat geen reizigers" owner="DCE.388D6115-C675-266E-E4DB-0E13FEBEAFD3" isSimple="true" incoming="DCE.53A29D1D-D803-E3A6-D664-6E62206CA046 DCE.95E129BB-8FC8-0E06-4327-0580E6A5C524" outgoing="DCE.CC67F979-E615-8E0A-A09E-BA2E5BE8AB5D"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.509AB0A5-D3FE-B6A0-BA97-71BC33F986B1" name="Unnamed" owner="DCE.CF86B9F6-9943-20C2-766D-90F1C1793BEB"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation></UML:State>
+<UML:State xmi.id="DCE.680917AA-EF02-67B7-9105-452A6F444CB8" name="Station bevat reizigers" owner="DCE.388D6115-C675-266E-E4DB-0E13FEBEAFD3" isSimple="true" incoming="DCE.CC67F979-E615-8E0A-A09E-BA2E5BE8AB5D" outgoing="DCE.5CBE6983-B4EF-2FE9-7300-606BE4268B7C DCE.95E129BB-8FC8-0E06-4327-0580E6A5C524"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.8B9753BB-4CED-1375-E09A-BC4E4527B476" name="Unnamed" owner="DCE.680917AA-EF02-67B7-9105-452A6F444CB8"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation></UML:State>
+<UML:Transition xmi.id="DCE.53A29D1D-D803-E3A6-D664-6E62206CA046" source="DCE.F42F7238-9F18-E02F-B4B5-AA06A3682075" owner="DCE.388D6115-C675-266E-E4DB-0E13FEBEAFD3" target="DCE.CF86B9F6-9943-20C2-766D-90F1C1793BEB" name="Stations worden geladen"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.7B8AE5C5-FC67-BCA9-E2CA-46BE26F75EEC"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.B22FFC34-FB4A-3E0A-9A79-A2CC03D920B2"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.CC67F979-E615-8E0A-A09E-BA2E5BE8AB5D" source="DCE.CF86B9F6-9943-20C2-766D-90F1C1793BEB" owner="DCE.388D6115-C675-266E-E4DB-0E13FEBEAFD3" target="DCE.680917AA-EF02-67B7-9105-452A6F444CB8" name="Voer reigers in"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.09A8DEBA-54A0-E390-0D9F-B8DE5EEFF1EE"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.26EE7C12-C1BA-93D5-34D2-6CEF4CE7D446"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.5CBE6983-B4EF-2FE9-7300-606BE4268B7C" source="DCE.680917AA-EF02-67B7-9105-452A6F444CB8" owner="DCE.388D6115-C675-266E-E4DB-0E13FEBEAFD3" target="DCE.0A180A85-D148-5EC5-0AB0-1296E16E9884"><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.25CB8C27-5FD6-C502-9205-2283ACBA255F"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.5CEE4DD6-C697-EFE1-BC51-DF48B2B4B4FF"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.95E129BB-8FC8-0E06-4327-0580E6A5C524" source="DCE.680917AA-EF02-67B7-9105-452A6F444CB8" owner="DCE.388D6115-C675-266E-E4DB-0E13FEBEAFD3" target="DCE.CF86B9F6-9943-20C2-766D-90F1C1793BEB" name="Reizigers stappen in taxi"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.2245AFAD-4103-C7C2-7FE0-91D0F4682D22"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.3FBD2CE6-566D-5621-D7DE-91433EFA9BCE"/></UML:Transition.postCondition></UML:Transition></UML:Element.ownedElement></UML:Region></UML:Element.ownedElement></UML:StateMachine>
+<UML:StateMachine xmi.id="DCE.5D524D26-E851-2260-1D9D-D9BED91A0409" name="Wissel" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" name="Unnamed" owner="DCE.5D524D26-E851-2260-1D9D-D9BED91A0409"><UML:Element.ownedElement>
+
+
+<UML:State xmi.id="DCE.BA5BEE9B-1CD2-6325-EC3B-4EB2E332D32B" name="Wisselstand op hoofdspoor" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" isSimple="true" outgoing="DCE.0FBBB5B7-EDAF-D84C-DBA7-9EF05DFED4D4 DCE.C1ABFC56-92F4-2ACD-AA80-03D1425442FF DCE.BAB3DCEA-1D84-A715-6A25-4BD9DF21CEB6 DCE.332723F4-33A2-92D1-07CC-6C2DC3326018 DCE.B73AEAA9-3B63-6BB5-668B-D96E70B9ED29" incoming="DCE.C56633B9-BA30-697D-3094-281739383C50 DCE.537B994E-9130-5EBA-2D1F-B3F9D5C2067C DCE.823DA97A-9774-11D9-4E5D-05D298BE405E DCE.49AF949C-92E8-2952-0703-D8E71338FF2A DCE.6F2EC1FF-5162-FB93-A03C-135530A9C080"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.E01C8C26-A396-5F7A-E644-8D767B498CD1" name="Unnamed" owner="DCE.BA5BEE9B-1CD2-6325-EC3B-4EB2E332D32B"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:State>
+
+<UML:Transition xmi.id="DCE.0FBBB5B7-EDAF-D84C-DBA7-9EF05DFED4D4" source="DCE.BA5BEE9B-1CD2-6325-EC3B-4EB2E332D32B" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" target="DCE.2D3C1301-0236-306B-B481-B5CDE9E3B3B9" name="A.I. Zetwissel Stand twee"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.FD6DD791-B935-21A1-E648-A39A9050B03E"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.487BC251-11A7-145C-B8EC-5DD23279D64F"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.C56633B9-BA30-697D-3094-281739383C50" source="DCE.2D3C1301-0236-306B-B481-B5CDE9E3B3B9" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" target="DCE.BA5BEE9B-1CD2-6325-EC3B-4EB2E332D32B" name="A.I. ZetwisselStand één"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.A8DD9D48-53EE-F46C-CB59-12193C34303B"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.8FB04742-5CE5-AAD4-13B4-F30CDC9C8C3B"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.537B994E-9130-5EBA-2D1F-B3F9D5C2067C" source="DCE.4B3C90D0-062B-397A-9BA5-4EE76C9B94BD" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" target="DCE.BA5BEE9B-1CD2-6325-EC3B-4EB2E332D32B" name="Begin A.I. Wissel"><UML:Element.presentation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.2B487BE0-7507-F7DA-DEDD-291AD382EAFA"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.618A6E21-9643-D8E2-CA79-A96AF0D906A0"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.C1ABFC56-92F4-2ACD-AA80-03D1425442FF" source="DCE.BA5BEE9B-1CD2-6325-EC3B-4EB2E332D32B" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" target="DCE.C97C62EA-12B4-35B7-84C0-20F0DB56112E"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.670EAD2E-EB41-C6D5-29AF-F203BE6FC0E7"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.9D761A63-AAB2-169E-80FD-2D9398ECE859"/></UML:Transition.postCondition></UML:Transition>
+<UML:FinalState xmi.id="DCE.4BC14CCE-5E0C-5235-B659-29E8737CFA75" name="Einde sim" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" incoming="DCE.E0A3E1DC-152D-B736-9B86-623B5C581F54"><UML:Element.presentation>
+
+</UML:Element.presentation></UML:FinalState>
+<UML:Transition xmi.id="DCE.E0A3E1DC-152D-B736-9B86-623B5C581F54" source="DCE.2D3C1301-0236-306B-B481-B5CDE9E3B3B9" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" target="DCE.4BC14CCE-5E0C-5235-B659-29E8737CFA75"><UML:Element.presentation>
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.A7D9856F-C0AE-3087-A75E-F8895D2277D1"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.44B86E66-9BB8-AE64-E50F-D1361F0ED924"/></UML:Transition.postCondition></UML:Transition>
+<UML:PseudoState xmi.id="DCE.D6C0842B-FAC4-92E1-499F-BAE13B6D667E" name="Start simulatie" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" kind="initial" outgoing="DCE.823DA97A-9774-11D9-4E5D-05D298BE405E DCE.9333C21B-2230-014A-B26B-BF809BBF2727"><UML:Element.presentation>
+
+</UML:Element.presentation></UML:PseudoState>
+<UML:Transition xmi.id="DCE.823DA97A-9774-11D9-4E5D-05D298BE405E" source="DCE.D6C0842B-FAC4-92E1-499F-BAE13B6D667E" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" target="DCE.BA5BEE9B-1CD2-6325-EC3B-4EB2E332D32B"><UML:Element.presentation>
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.9CAE3BAC-9430-A034-B85E-E5045483D11A"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.C8C6C348-6F94-48A8-B9A2-9E33C5981229"/></UML:Transition.postCondition></UML:Transition>
+<UML:State xmi.id="DCE.7ACE5588-3690-9F62-E7E6-AB226B47BBB9" name="Wisselstand op station spoor" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" isSimple="true" incoming="DCE.BAB3DCEA-1D84-A715-6A25-4BD9DF21CEB6 DCE.332723F4-33A2-92D1-07CC-6C2DC3326018 DCE.9333C21B-2230-014A-B26B-BF809BBF2727" outgoing="DCE.49AF949C-92E8-2952-0703-D8E71338FF2A DCE.6F2EC1FF-5162-FB93-A03C-135530A9C080 DCE.8F68331A-68E5-0D27-9154-FB436E352E37"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.12E7D081-4478-96C1-3485-889C7925EFC3" name="Unnamed" owner="DCE.7ACE5588-3690-9F62-E7E6-AB226B47BBB9"/></UML:Element.ownedElement><UML:Element.presentation>
+</UML:Element.presentation></UML:State>
+
+
+<UML:Transition xmi.id="DCE.332723F4-33A2-92D1-07CC-6C2DC3326018" source="DCE.BA5BEE9B-1CD2-6325-EC3B-4EB2E332D32B" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" target="DCE.7ACE5588-3690-9F62-E7E6-AB226B47BBB9" name="Schakelen"><UML:Element.presentation>
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.CBF7A09F-A3A7-C78C-1DCE-50A7B8780F7A"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.8EC9FF67-3495-40D1-C1E8-D9798B5C64D2"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.6F2EC1FF-5162-FB93-A03C-135530A9C080" source="DCE.7ACE5588-3690-9F62-E7E6-AB226B47BBB9" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" target="DCE.BA5BEE9B-1CD2-6325-EC3B-4EB2E332D32B" name="Schakelen"><UML:Element.presentation>
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.071C8E47-AD4F-4363-F408-03C701BED510"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.CE61B86D-76B5-33B9-2720-57C5976B49F1"/></UML:Transition.postCondition></UML:Transition>
+<UML:FinalState xmi.id="DCE.70B92E3F-D6F3-F341-8C79-02B23FB422AF" name="Einde simulatie" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" incoming="DCE.B73AEAA9-3B63-6BB5-668B-D96E70B9ED29 DCE.8F68331A-68E5-0D27-9154-FB436E352E37"><UML:Element.presentation>
+
+</UML:Element.presentation></UML:FinalState>
+
+<UML:Transition xmi.id="DCE.B73AEAA9-3B63-6BB5-668B-D96E70B9ED29" source="DCE.BA5BEE9B-1CD2-6325-EC3B-4EB2E332D32B" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" target="DCE.70B92E3F-D6F3-F341-8C79-02B23FB422AF"><UML:Element.presentation>
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.52758E68-51F6-5451-71AE-CFD47BF75F37"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.718615D8-1BC0-ABDA-623B-320FBDB554EE"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.8F68331A-68E5-0D27-9154-FB436E352E37" source="DCE.7ACE5588-3690-9F62-E7E6-AB226B47BBB9" owner="DCE.E8B6D44D-6F00-AFD3-AAA1-4B45AD407F1D" target="DCE.70B92E3F-D6F3-F341-8C79-02B23FB422AF"><UML:Element.presentation>
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.B2B9E24D-9715-228D-5C78-3901255862CF"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.5859D258-8399-4DD4-6EB4-C006F77330D3"/></UML:Transition.postCondition></UML:Transition>
+</UML:Element.ownedElement></UML:Region></UML:Element.ownedElement></UML:StateMachine>
+<UML:StateMachine xmi.id="DCE.BAE2BF84-2C7B-D919-72DE-7B10C0E06DB1" name="Statistieken" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.64B02E40-7C8F-0942-20F2-67420E186ED6" name="Unnamed" owner="DCE.BAE2BF84-2C7B-D919-72DE-7B10C0E06DB1"><UML:Element.ownedElement>
+<UML:PseudoState xmi.id="DCE.3636B003-2FED-689C-63C1-A10E594D052B" name="Unnamed" owner="DCE.64B02E40-7C8F-0942-20F2-67420E186ED6" kind="initial" outgoing="DCE.E56D294F-150E-0C35-FCCD-952FE9B72F75"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation></UML:PseudoState>
+<UML:FinalState xmi.id="DCE.38DCFC75-E666-C70F-7095-0DEA0247134B" name="Gebruiker heeftt statistieken bekeken" owner="DCE.64B02E40-7C8F-0942-20F2-67420E186ED6" incoming="DCE.1586468D-2CAF-9C18-08FD-ADB9629FA6AC"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation></UML:FinalState>
+<UML:State xmi.id="DCE.A1C447D8-A60F-D71D-3FDB-A36634791870" name="Statistieken opgehaald" owner="DCE.64B02E40-7C8F-0942-20F2-67420E186ED6" isSimple="true" outgoing="DCE.1586468D-2CAF-9C18-08FD-ADB9629FA6AC" incoming="DCE.ED46E5B2-37A8-79B7-C070-63E02585ABE4"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.AC1F0BDA-EACB-C297-8DA8-31836704BAF8" name="Unnamed" owner="DCE.A1C447D8-A60F-D71D-3FDB-A36634791870"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+</UML:Element.presentation></UML:State>
+<UML:Transition xmi.id="DCE.1586468D-2CAF-9C18-08FD-ADB9629FA6AC" source="DCE.A1C447D8-A60F-D71D-3FDB-A36634791870" owner="DCE.64B02E40-7C8F-0942-20F2-67420E186ED6" target="DCE.38DCFC75-E666-C70F-7095-0DEA0247134B"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.9B07E3E5-019D-0F74-DE19-ED1CDA6EE7DF"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.D4DC85ED-75EB-E5DA-A2D1-A71598B2347C"/></UML:Transition.postCondition></UML:Transition>
+<UML:State xmi.id="DCE.5F588548-819D-E521-468A-61E62C31CAA4" name="Onderdeel gekozen" owner="DCE.64B02E40-7C8F-0942-20F2-67420E186ED6" isSimple="true" incoming="DCE.E56D294F-150E-0C35-FCCD-952FE9B72F75" outgoing="DCE.ED46E5B2-37A8-79B7-C070-63E02585ABE4"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.DDB7C7E9-F117-AE61-8911-17C37B4F5FDC" name="Unnamed" owner="DCE.5F588548-819D-E521-468A-61E62C31CAA4"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+</UML:Element.presentation></UML:State>
+<UML:Transition xmi.id="DCE.E56D294F-150E-0C35-FCCD-952FE9B72F75" source="DCE.3636B003-2FED-689C-63C1-A10E594D052B" owner="DCE.64B02E40-7C8F-0942-20F2-67420E186ED6" target="DCE.5F588548-819D-E521-468A-61E62C31CAA4" name="Gebruiker kiest onderdeel"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.CDC957F3-EE0C-C020-5267-E0C35A9E9A11"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.1E845B94-C088-FB6E-6D61-60760868509A"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.ED46E5B2-37A8-79B7-C070-63E02585ABE4" source="DCE.5F588548-819D-E521-468A-61E62C31CAA4" owner="DCE.64B02E40-7C8F-0942-20F2-67420E186ED6" target="DCE.A1C447D8-A60F-D71D-3FDB-A36634791870"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.09EFD806-B2DB-6FCD-5435-7984F6B4791E"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.98611308-A0E1-D3C9-5A1A-091118A01809"/></UML:Transition.postCondition></UML:Transition></UML:Element.ownedElement></UML:Region></UML:Element.ownedElement></UML:StateMachine>
+<UML:StateMachine xmi.id="DCE.C833881E-0E34-95CA-80A3-4A1DEC70AB75" name="Reiziger" owner="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" name="Unnamed" owner="DCE.C833881E-0E34-95CA-80A3-4A1DEC70AB75"><UML:Element.ownedElement>
+<UML:PseudoState xmi.id="DCE.7EF77975-9667-A130-9FBA-CF3A714480DC" name="Unnamed" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" kind="initial" outgoing="DCE.74F71184-E201-20FC-D904-BFFAE606FD89 DCE.84CA6993-57AA-E30F-2902-1A890DD77046"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation></UML:PseudoState>
+
+
+<UML:Transition xmi.id="DCE.74F71184-E201-20FC-D904-BFFAE606FD89" source="DCE.7EF77975-9667-A130-9FBA-CF3A714480DC" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" target="DCE.F9D8EA95-D71E-D698-526C-F1CDCD2B115C" name="Begin"><UML:Element.presentation>
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.617D10D5-D045-2AF7-A738-5B365A074E35"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.26EF4359-FA0C-1A6E-6653-23C9B28191BB"/></UML:Transition.postCondition></UML:Transition>
+<UML:State xmi.id="DCE.A5FDC379-F572-8977-C129-4712D5274E57" name="Reiziger op station" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" isSimple="true" incoming="DCE.22D94043-8C89-3C47-3988-8E4DD0BEBC57 DCE.84CA6993-57AA-E30F-2902-1A890DD77046" outgoing="DCE.83906D65-42D9-C41A-A1B0-AAB589675F0A"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.0C4C27AD-48CF-D9B7-AE69-6409A55CB1BC" name="Unnamed" owner="DCE.A5FDC379-F572-8977-C129-4712D5274E57"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+</UML:Element.presentation></UML:State>
+<UML:Transition xmi.id="DCE.22D94043-8C89-3C47-3988-8E4DD0BEBC57" source="DCE.F9D8EA95-D71E-D698-526C-F1CDCD2B115C" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" target="DCE.A5FDC379-F572-8977-C129-4712D5274E57" name="Gebruiker voert reiziger(s) in"><UML:Element.presentation>
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.46D559D6-4900-CD1E-6784-FE54850A98AE"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.988088E8-ECA8-C3F1-101E-3BA83FB540CC"><UML:Element.presentation>
+</UML:Element.presentation></UML:Constraint></UML:Transition.postCondition></UML:Transition>
+<UML:State xmi.id="DCE.FDD2FF16-1075-70D0-B25D-2BD95C784544" name="Reiziger in taxi" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" isSimple="true" incoming="DCE.83906D65-42D9-C41A-A1B0-AAB589675F0A" outgoing="DCE.6B86FA64-3344-F717-1730-65C0DF115B2F DCE.94570E98-C3A9-2863-86CD-11410F1619EF DCE.8B60BD34-54AD-AF82-596F-2FB39323D576"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.FE71DE1E-25C5-1D27-21C0-F544C5271519" name="Unnamed" owner="DCE.FDD2FF16-1075-70D0-B25D-2BD95C784544"/></UML:Element.ownedElement><UML:Element.presentation>
+
+
+
+</UML:Element.presentation></UML:State>
+<UML:Transition xmi.id="DCE.83906D65-42D9-C41A-A1B0-AAB589675F0A" source="DCE.A5FDC379-F572-8977-C129-4712D5274E57" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" target="DCE.FDD2FF16-1075-70D0-B25D-2BD95C784544" name="Reiziger stapt taxi in"><UML:Element.presentation>
+
+
+
+
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.59E1E55A-46C9-5BF8-DDBE-7FB5F72DFE54"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.099AB5F3-2FB2-5C30-E8E7-841238F3019A"/></UML:Transition.postCondition></UML:Transition>
+
+<UML:Transition xmi.id="DCE.6B86FA64-3344-F717-1730-65C0DF115B2F" source="DCE.FDD2FF16-1075-70D0-B25D-2BD95C784544" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" target="DCE.412FD8A2-2CF7-DF2E-0662-A488D3B49F41" name="Taxi brengt reiziger(s) weg"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.F58613EF-2865-2981-746C-9768E4910CB7"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.F6B1B249-16F1-EBA6-1BD4-F9544090CBB2"/></UML:Transition.postCondition></UML:Transition>
+<UML:FinalState xmi.id="DCE.073CFE4D-E5FF-2DF7-3061-3CF0485B2232" name="Reiziger is aangekomen" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" incoming="DCE.10984805-16E4-D02D-3EA5-CA25C4C98787 DCE.C6B86427-A6B1-13BA-7DC7-BDBE31B0C57D DCE.03A9CF4E-087B-BF27-4E25-5CBD0594DB0C DCE.32B0FC68-7AC6-61AF-50B3-7F00A5A8FEFC DCE.8B60BD34-54AD-AF82-596F-2FB39323D576"><UML:Element.presentation>
+
+
+
+
+
+</UML:Element.presentation></UML:FinalState>
+
+
+
+<UML:Transition xmi.id="DCE.03A9CF4E-087B-BF27-4E25-5CBD0594DB0C" source="DCE.412FD8A2-2CF7-DF2E-0662-A488D3B49F41" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" target="DCE.073CFE4D-E5FF-2DF7-3061-3CF0485B2232" name="Reiziger(s) verlaat taxi"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.8DDAB003-588D-CFD5-7297-91DEDBAB2A20"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.A71A7CC7-DFA2-86BC-E37C-4B63364F7CC1"/></UML:Transition.postCondition></UML:Transition>
+
+<UML:Transition xmi.id="DCE.94570E98-C3A9-2863-86CD-11410F1619EF" source="DCE.FDD2FF16-1075-70D0-B25D-2BD95C784544" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" target="DCE.4DA37DEA-4E09-586C-3448-81C4A7FFEB00" name="Taxi met reiziger is vertek"><UML:Element.presentation>
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.5BFE5267-3CB5-0782-17D2-5008D72EBBA2"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.15969B8D-C499-356A-845D-18FB1757AF17"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.32B0FC68-7AC6-61AF-50B3-7F00A5A8FEFC" source="DCE.4DA37DEA-4E09-586C-3448-81C4A7FFEB00" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" target="DCE.073CFE4D-E5FF-2DF7-3061-3CF0485B2232"><UML:Element.presentation>
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.FC4C9A98-558B-97DB-BF42-EC1D856FA6F8"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.C0C9E099-7DEF-346A-8449-F216E57EFEF7"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.8B60BD34-54AD-AF82-596F-2FB39323D576" source="DCE.FDD2FF16-1075-70D0-B25D-2BD95C784544" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" target="DCE.073CFE4D-E5FF-2DF7-3061-3CF0485B2232" name="Reiziger stapt uit"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.0937AC19-CE34-0031-2716-86A3683DF6B3"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.14577B8B-F08B-6B94-6A76-4AD8873CC12D"/></UML:Transition.postCondition></UML:Transition>
+<UML:Transition xmi.id="DCE.84CA6993-57AA-E30F-2902-1A890DD77046" source="DCE.7EF77975-9667-A130-9FBA-CF3A714480DC" owner="DCE.A0403BC4-3DAA-DC9E-45CA-CB4831728A82" target="DCE.A5FDC379-F572-8977-C129-4712D5274E57" name="Reiziger wordt ingevoerd"><UML:Element.presentation>
+
+
+
+</UML:Element.presentation><UML:Transition.preCondition>
+<UML:Constraint xmi.id="DCE.90D832AB-CC37-FD55-2FA1-809181999351"/></UML:Transition.preCondition><UML:Transition.postCondition>
+<UML:Constraint xmi.id="DCE.92711B9F-6EED-F6CD-8D93-A4F2E4AA8D5D"/></UML:Transition.postCondition></UML:Transition></UML:Element.ownedElement></UML:Region></UML:Element.ownedElement></UML:StateMachine></UML:Element.ownedElement><UML:Package.packageImport>
+<UML:PackageImport xmi.id="DCE.1C7CC55C-6B4F-40A8-4789-1FFD48CE9BE1" importingPackage="DCE.B143C973-7294-2407-3654-1044B2C1C7E8"><UML:PackageImport.importedPackage>
+<UML:Profile xmi.id="DCE.91383518-7780-9259-A499-4EF4886CE1AC" name="Unnamed" isCloned="true" href=".\Project_Rialcab.etup#//*[@xmi.id=&apos;DCE.91383518-7780-9259-A499-4EF4886CE1AC&apos;]" isDirty="false"/></UML:PackageImport.importedPackage><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.BFB526BA-A3C0-B4D3-DBCA-8F75F324B203" owner="DCE.1C7CC55C-6B4F-40A8-4789-1FFD48CE9BE1" name="autoCreated">
+<UML:TaggedValue.dataValue>true</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:PackageImport></UML:Package.packageImport></UML:Project></XMI.content> </XMI>

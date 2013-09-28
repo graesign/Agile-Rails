@@ -1,0 +1,2 @@
+XYSeriesRailCab.java aangepast voor compile:
+	cast naar XYDataItem in de while loops.

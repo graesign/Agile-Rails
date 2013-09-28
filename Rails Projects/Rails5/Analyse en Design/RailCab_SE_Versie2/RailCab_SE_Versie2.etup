@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMI xmlns:UML="omg.org/UML/1.4" xmi.version="2.0">
+   <XMI.header>
+      <XMI.metamodel xmi.name="UML" xmi.version="1.4"/>
+		<XMI.documentation>
+			<XMI.exporter>
+				Embarcadero's Describe
+			</XMI.exporter>
+			<XMI.exporterVersion>
+				6.0
+			</XMI.exporterVersion>
+		</XMI.documentation>
+   </XMI.header>
+
+   <XMI.content>
+   <UML:Profile xmi.id="DCE.71FE6A50-06DA-ED0B-9ABA-C3E5ABBF4703" name="Unnamed" isCloned="true" href=".\RailCab_SE_Versie2.etup#//*[@xmi.id=&apos;DCE.71FE6A50-06DA-ED0B-9ABA-C3E5ABBF4703&apos;]" isDirty="false"><UML:Element.ownedElement>
+<UML:Stereotype xmi.id="DCE.B6EB17CE-77F8-3BDE-52CC-C123B478B63E" name="Interface" owner="__uri_.\RailCab_SE_Versie2.etup#//*[@xmi.id=&apos;DCE.71FE6A50-06DA-ED0B-9ABA-C3E5ABBF4703&apos;]"/>
+<UML:Stereotype xmi.id="DCE.BDC169B7-4B95-F2BE-8A90-524B42229E88" name="interface" owner="__uri_.\RailCab_SE_Versie2.etup#//*[@xmi.id=&apos;DCE.71FE6A50-06DA-ED0B-9ABA-C3E5ABBF4703&apos;]"/>
+<UML:Stereotype xmi.id="DCE.BCDD4B3F-1F5C-0F13-DB83-662F9A7622D8" name="boundary" owner="__uri_.\RailCab_SE_Versie2.etup#//*[@xmi.id=&apos;DCE.71FE6A50-06DA-ED0B-9ABA-C3E5ABBF4703&apos;]"/>
+<UML:Stereotype xmi.id="DCE.39CDC365-61C8-94F8-6649-190BF63DF70B" name="controller" owner="__uri_.\RailCab_SE_Versie2.etup#//*[@xmi.id=&apos;DCE.71FE6A50-06DA-ED0B-9ABA-C3E5ABBF4703&apos;]"/>
+<UML:Stereotype xmi.id="DCE.2A85902B-0F4A-ECE5-94C1-A8250E4C23E1" name="entity" owner="__uri_.\RailCab_SE_Versie2.etup#//*[@xmi.id=&apos;DCE.71FE6A50-06DA-ED0B-9ABA-C3E5ABBF4703&apos;]"/></UML:Element.ownedElement></UML:Profile></XMI.content>
+</XMI>

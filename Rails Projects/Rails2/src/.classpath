@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="E:/SCHOOL/HvA/Rails/Rails/lib/mysql.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jcommon-1.0.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jfreechart-1.0.8a.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

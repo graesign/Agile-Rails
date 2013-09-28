@@ -1,0 +1,2090 @@
+<?xml version="1.0" encoding="WINDOWS-1252"?>
+<TSX edition="Java Edition" product="Tom Sawyer Visualization" version="6.0.1">
+<graphManager id="6">
+<resources>
+<shapes>
+<rectangleShape id="0"/>
+<ovalShape id="1"/>
+<polygonShape id="2">
+<point x="0.0" y="0.0"/>
+<point x="1.0" y="0.0"/>
+<point x="1.0" y="1.0"/>
+<point x="0.0" y="1.0"/>
+<point x="0.0" y="0.06"/>
+<point x="0.05" y="0.06"/>
+<point x="0.05" y="0.95"/>
+<point x="0.95" y="0.95"/>
+<point x="0.95" y="0.05"/>
+<point x="0.0" y="0.05"/>
+<point x="0.0" y="0.0"/>
+</polygonShape>
+</shapes>
+<fonts>
+<font id="3">
+<name value="SansSerif"/>
+<bold value="false"/>
+<italic value="false"/>
+<fontHeight value="10"/>
+</font>
+<font id="4">
+<name value="SansSerif"/>
+<bold value="false"/>
+<italic value="false"/>
+<fontHeight value="12"/>
+</font>
+<font id="5">
+<name value="SansSerif"/>
+<bold value="false"/>
+<italic value="false"/>
+<fontHeight value="8"/>
+</font>
+</fonts>
+</resources>
+<instances>
+<graphs>
+<graph id="7">
+<name/>
+<margins>
+<proportional bottom="0.0" left="0.0" right="0.0" top="0.0"/>
+<constant bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+</margins>
+<url/>
+<graphics type="basicGraph">
+<backgroundColor value="255 255 255"/>
+<imageUsed/>
+<imageTiled value="false"/>
+<imageStyle value="WORLD_OFFSET"/>
+<imageMinTileStep value="25"/>
+<imageX value="0.0"/>
+<imageY value="0.0"/>
+<drawNodesBeforeEdges value="true"/>
+</graphics>
+</graph>
+<graph id="8">
+<name/>
+<margins>
+<proportional bottom="0.0" left="0.0" right="0.0" top="0.0"/>
+<constant bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+</margins>
+<url/>
+<graphics type="basicGraph">
+<backgroundColor value="255 255 255"/>
+<imageUsed/>
+<imageTiled value="false"/>
+<imageStyle value="WORLD_OFFSET"/>
+<imageMinTileStep value="25"/>
+<imageX value="0.0"/>
+<imageY value="0.0"/>
+<drawNodesBeforeEdges value="true"/>
+</graphics>
+</graph>
+<graph id="9">
+<name/>
+<margins>
+<proportional bottom="0.0" left="0.0" right="0.0" top="0.0"/>
+<constant bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+</margins>
+<url/>
+<graphics type="basicGraph">
+<backgroundColor value="255 255 255"/>
+<imageUsed/>
+<imageTiled value="false"/>
+<imageStyle value="WORLD_OFFSET"/>
+<imageMinTileStep value="25"/>
+<imageX value="0.0"/>
+<imageY value="0.0"/>
+<drawNodesBeforeEdges value="true"/>
+</graphics>
+</graph>
+<graph id="10">
+<name/>
+<nodes>
+<node id="11">
+<name/>
+<center x="-226.66666666665685" y="-482.8333333333376"/>
+<size height="1324.0" width="128.0"/>
+<originalSize height="1324.0" width="128.0"/>
+<shape resource="0"/>
+<connectors>
+<connector id="12">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-110.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="13">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-150.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="14">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-355.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="15">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-395.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="16">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-182.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="17">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-214.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="18">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-252.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="19">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-279.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="20">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-302.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="21">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-330.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="22">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-601.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="23">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-641.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="24">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-759.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="25">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-799.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="26">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-684.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="27">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-723.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="28">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="1.0" y="-940.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="29">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-1044.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="30">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-1083.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="31">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="0.0" y="-833.3333333333305"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="32">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="0.0" y="-490.33333333333053"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="33">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-1158.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="34">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-1197.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="35">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-974.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="36">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-1013.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="37">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-1265.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="38">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="11.0" y="-1303.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+</connectors>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="3"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.8348536C-3FE6-7B3A-2F98-5F9EDD508009"/>
+</graphics>
+</node>
+<node id="39">
+<name/>
+<center x="141.66666666666825" y="-260.83333333333405"/>
+<size height="788.0" width="134.0"/>
+<originalSize height="788.0" width="134.0"/>
+<shape resource="0"/>
+<connectors>
+<connector id="40">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-64.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="41">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-104.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="42">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-549.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="43">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-589.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="44">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-709.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="45">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-749.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+</connectors>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="3"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.5BB32034-BDB9-27AA-0C8A-F0807584A669"/>
+</graphics>
+</node>
+<node id="46">
+<name/>
+<center x="431.10780229039256" y="-50.082929217101366"/>
+<size height="368.1869863169637" width="96.99999999999989"/>
+<originalSize height="368.1869863169637" width="96.99999999999989"/>
+<shape resource="0"/>
+<connectors>
+<connector id="47">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-309.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="48">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-349.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="49">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-206.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="50">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-233.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+</connectors>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="3"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.E6C3EAF4-54E5-A0D9-7E1C-B5CBC1ED81BE"/>
+</graphics>
+</node>
+<node id="51">
+<name/>
+<center x="304.99792819252303" y="40.78603465154259"/>
+<size height="182.7946633882019" width="94.0"/>
+<originalSize height="182.7946633882019" width="94.0"/>
+<shape resource="0"/>
+<connectors>
+<connector id="52">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-133.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="53">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-165.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+</connectors>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="3"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.9A567055-BFAF-5EFA-5891-87728CF7113A"/>
+</graphics>
+</node>
+<node id="54">
+<name/>
+<center x="12.5" y="-187.5"/>
+<size height="413.0" width="627.0"/>
+<originalSize height="413.0" width="627.0"/>
+<shape resource="2"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="3"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.0A5E077F-1207-67A8-9DB5-27DA1EBA5286"/>
+</graphics>
+</node>
+<node id="55">
+<name/>
+<center x="18.5" y="-211.0"/>
+<size height="322.0" width="582.0"/>
+<originalSize height="322.0" width="582.0"/>
+<shape resource="2"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="3"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.1029765A-B761-925D-C14A-89C70A7D1C91"/>
+</graphics>
+</node>
+<node id="56">
+<name/>
+<center x="549.0490631332136" y="-15.621929285347335"/>
+<size height="300.76977893131175" width="114.0"/>
+<originalSize height="300.76977893131175" width="114.0"/>
+<shape resource="0"/>
+<connectors>
+<connector id="57">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-256.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="58">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-284.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+</connectors>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="3"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.D70B2DBE-31DE-D1A9-3D67-B857B39BE301"/>
+</graphics>
+</node>
+<node id="59">
+<name value="Reiziger(s) worden gesorteerd d.m.v. een aangepaste bucket sort algoritme, waarbij voor elke vertrekpunt bestemming combinatie een bucket gecreërd wordt. In een aangemaakte bucket zit minstens 1 reiziger. De buckets worden vervolgens gesorteerd op wachttijden van hoog naar laag."/>
+<center x="39.0980807321904" y="-292.4019192678096"/>
+<size height="127.0" width="434.0"/>
+<originalSize height="127.0" width="434.0"/>
+<shape resource="0"/>
+<connectors>
+<connector id="60">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="-0.5" y="0.5"/>
+<constantOffset x="0.0" y="-59.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+</connectors>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="4"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.E6C3F113-3C15-F0DA-D84F-2F648CABA385"/>
+</graphics>
+</node>
+<node id="61">
+<name/>
+<center x="217.5" y="-573.3333333333334"/>
+<size height="202.66666666666674" width="1018.6666666666667"/>
+<originalSize height="202.66666666666674" width="1018.6666666666667"/>
+<shape resource="2"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="3"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.E2FEF9DB-489F-5FD5-2F9A-D92B002CBB7E"/>
+</graphics>
+</node>
+<node id="62">
+<name/>
+<center x="651.0547321448935" y="-509.6646916194294"/>
+<size height="326.5842497097194" width="62.666666666666515"/>
+<originalSize height="326.5842497097194" width="62.666666666666515"/>
+<shape resource="0"/>
+<connectors>
+<connector id="63">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-155.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="64">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-194.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+</connectors>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="3"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.03D8D068-6D0A-3808-D434-B4F53261C13F"/>
+</graphics>
+</node>
+<node id="65">
+<name/>
+<center x="741.0817339434926" y="-942.7810941875555"/>
+<size height="392.05118047492215" width="62.666666666666515"/>
+<originalSize height="392.05118047492203" width="62.666666666666515"/>
+<shape resource="0"/>
+<connectors>
+<connector id="66">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="-0.5" y="0.5"/>
+<constantOffset x="2.0" y="-14.5"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="67">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-119.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="68">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-158.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="69">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-228.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="70">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-267.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="71">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-49.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="72">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-88.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="73">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-336.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+<connector id="74">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="0.0" y="0.5"/>
+<constantOffset x="-4.0" y="-375.0"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+</connectors>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="3"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.4B84BD7A-3CEF-BA7B-44BB-5122AFAF47E3"/>
+</graphics>
+</node>
+<node id="75">
+<name value="De taxi met de kortste afstand tot het vertrekpunt wordt gekozen."/>
+<center x="286.3333333333333" y="-619.0"/>
+<size height="89.33333333333326" width="208.0"/>
+<originalSize height="87.42572228672907" width="204.9040366095212"/>
+<shape resource="0"/>
+<connectors>
+<connector id="76">
+<name/>
+<size height="0.0" width="0.0"/>
+<proportionalOffset x="-0.5" y="0.5"/>
+<constantOffset x="0.0" y="-35.66666666666663"/>
+<shape resource="1"/>
+<url/>
+<visible value="false"/>
+<graphics type="basicConnector">
+<fillColor value="0 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+</graphics>
+</connector>
+</connectors>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="4"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.40B3F258-35BC-B439-A5E7-E22087E60270"/>
+</graphics>
+</node>
+<node id="77">
+<name/>
+<center x="245.66666666666777" y="-991.5000000000005"/>
+<size height="110.66666666666652" width="1093.3333333333333"/>
+<originalSize height="110.66666666666652" width="1093.3333333333333"/>
+<shape resource="2"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericNodeUI">
+<fillColor value="204 204 204"/>
+<borderColor value="0 0 0"/>
+<transparent value="false"/>
+<drawBorder value="true"/>
+<textFont resource="3"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<childGraphMark value="true"/>
+<PEID value="DCE.F158BBEE-DCB3-3CA1-AE9E-356DBC5FEEE1"/>
+</graphics>
+</node>
+</nodes>
+<edges>
+<edge id="78" source="11" target="39">
+<sourceConnector value="12"/>
+<targetConnector value="40"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="79">
+<name value="public Station[*]  getStations(  )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.0AAEE242-4520-B0A2-A7AC-713195F0C33C"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.8CA584B0-A9A5-2075-E3C4-7029168EC799"/>
+</graphics>
+</edge>
+<edge id="80" source="39" target="11">
+<sourceConnector value="41"/>
+<targetConnector value="13"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.D332DFB0-202E-BA63-AD73-307B5075460F"/>
+</graphics>
+</edge>
+<edge id="81" source="11" target="46">
+<sourceConnector value="14"/>
+<targetConnector value="47"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="82">
+<name value="public long  getWachttijd(  )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.930AF547-3BC8-3AA5-1988-5A881AC8BD57"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.8345863F-A2CD-915E-507B-19018EA7F40A"/>
+</graphics>
+</edge>
+<edge id="83" source="46" target="11">
+<sourceConnector value="48"/>
+<targetConnector value="15"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.29B8D722-F5A1-1290-79A0-BF4A7945625C"/>
+</graphics>
+</edge>
+<edge id="84" source="11" target="51">
+<sourceConnector value="16"/>
+<targetConnector value="52"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="85">
+<name value="public Reiziger[0..*]  getReiziger(  )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.1F546A97-3E78-B517-0422-1F78FA18AB89"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.D8DA7C64-AF98-31DB-CA17-C2B0F959A7FA"/>
+</graphics>
+</edge>
+<edge id="86" source="51" target="11">
+<sourceConnector value="53"/>
+<targetConnector value="17"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.372896D9-6E7A-5775-39D6-E3ACE299110B"/>
+</graphics>
+</edge>
+<edge id="87" source="11" target="46">
+<sourceConnector value="18"/>
+<targetConnector value="49"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="88">
+<name value="public ReisDetails  getReisDetails(  )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.1A6DFDC0-5D9E-3D12-AEAF-741A34395E7F"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.73A04DC7-635F-C054-CA73-ADE921FC56F1"/>
+</graphics>
+</edge>
+<edge id="89" source="46" target="11">
+<sourceConnector value="50"/>
+<targetConnector value="19"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.941CC28E-56F9-E822-CF9F-9D7722B446E3"/>
+</graphics>
+</edge>
+<edge id="90" source="11" target="56">
+<sourceConnector value="20"/>
+<targetConnector value="57"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="91">
+<name value="public Station  getBestemming(  )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.96CF204A-B141-B6A1-F405-2EA0F7D453EF"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.6EF6E5C3-E65C-4406-E7D2-66133F991493"/>
+</graphics>
+</edge>
+<edge id="92" source="56" target="11">
+<sourceConnector value="58"/>
+<targetConnector value="21"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.4F8946F1-8BAC-3093-F72E-9BD89FB40511"/>
+</graphics>
+</edge>
+<edge id="93" source="11" target="39">
+<sourceConnector value="22"/>
+<targetConnector value="42"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="94">
+<name value="public Taxi[*]  getBeschikbareTaxis(  )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.343285E1-2D5D-4C7D-0154-69D999B60618"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.569C166F-A2AD-3CE9-873F-45195EB1D7B5"/>
+</graphics>
+</edge>
+<edge id="95" source="39" target="11">
+<sourceConnector value="43"/>
+<targetConnector value="23"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.C198BC3A-126F-7F58-1AE8-28B1D80D0607"/>
+</graphics>
+</edge>
+<edge id="96" source="11" target="39">
+<sourceConnector value="24"/>
+<targetConnector value="44"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="97">
+<name value="public long  bepaalAfstand( Station begin, Station eind )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.9633EB8A-F99E-8E64-D0EA-8DDA6537988E"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.BBDB6C12-7D6E-DCDD-53BF-9EF8CEF56737"/>
+</graphics>
+</edge>
+<edge id="98" source="39" target="11">
+<sourceConnector value="45"/>
+<targetConnector value="25"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.E9C57552-3609-C552-74D8-57884357D2C6"/>
+</graphics>
+</edge>
+<edge id="99" source="11" target="62">
+<sourceConnector value="26"/>
+<targetConnector value="63"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="100">
+<name value="public Station  getStation()(  )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.95999152-4BBA-F10A-5BA7-168D7296947F"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.F131F52B-8709-45F7-E513-DA0E01477024"/>
+</graphics>
+</edge>
+<edge id="101" source="62" target="11">
+<sourceConnector value="64"/>
+<targetConnector value="27"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.99260A30-9657-CC34-3CF3-75040E41A6DF"/>
+</graphics>
+</edge>
+<edge id="102" source="11" target="65">
+<sourceConnector value="28"/>
+<targetConnector value="66"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="103">
+<name value="public Reis(  )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.E551E502-BFFB-F600-B0E8-E0A271EEE880"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.F7347760-3C9E-9524-5B7F-FAFDA0749014"/>
+</graphics>
+</edge>
+<edge id="104" source="11" target="65">
+<sourceConnector value="29"/>
+<targetConnector value="67"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="105">
+<name value="public void  setTaxi( Taxi val )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.7F2DABAE-6859-F5A4-D37D-FE165BA46406"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.FC63D6F5-A94E-283D-341B-0CF502CA6BBF"/>
+</graphics>
+</edge>
+<edge id="106" source="65" target="11">
+<sourceConnector value="68"/>
+<targetConnector value="30"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.9397EEF7-C9E1-30D5-FD37-CAC95E2423F0"/>
+</graphics>
+</edge>
+<edge id="107" source="11" target="75">
+<sourceConnector value="31"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.1BA75010-5C91-FBEA-549F-610E43F9A9B1"/>
+</graphics>
+</edge>
+<edge id="108" source="11" target="59">
+<sourceConnector value="32"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.8773CA43-76EB-441E-DE33-44F54435F439"/>
+</graphics>
+</edge>
+<edge id="109" source="11" target="65">
+<sourceConnector value="33"/>
+<targetConnector value="69"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="110">
+<name value="public void  addReiziger( Reiziger reiziger )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.3DD35A7D-6C7E-0611-FE6C-8BC82E86BB2B"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.1406AF80-F47E-B7CC-76E9-5D7EC2392A29"/>
+</graphics>
+</edge>
+<edge id="111" source="65" target="11">
+<sourceConnector value="70"/>
+<targetConnector value="34"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.E95186EA-50F5-F964-647B-F4EC67C4DB82"/>
+</graphics>
+</edge>
+<edge id="112" source="11" target="65">
+<sourceConnector value="35"/>
+<targetConnector value="71"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="113">
+<name value="public void  setReisDetails( ReisDetails val )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.6DDB0D06-54A2-C1B7-3E47-82C70985D658"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.F1D38672-3222-DE95-A2A9-A7291807F105"/>
+</graphics>
+</edge>
+<edge id="114" source="65" target="11">
+<sourceConnector value="72"/>
+<targetConnector value="36"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.855F1FB3-866B-471A-52F4-6FA0595B4389"/>
+</graphics>
+</edge>
+<edge id="115" source="11" target="65">
+<sourceConnector value="37"/>
+<targetConnector value="73"/>
+<sourceClipping/>
+<targetClipping/>
+<edgeLabels>
+<edgeLabel id="116">
+<name value="public void  start(  )"/>
+<size height="20.0" width="75.0"/>
+<constantOffset x="0.0" y="10.0"/>
+<distanceFromSource value="0.5"/>
+<url/>
+<visible value="true"/>
+<resizability value="RESIZABILITY_NO_FIT"/>
+<graphics type="ETGenericEdgeLabelUI">
+<fillColor value="255 255 255"/>
+<borderColor value="0 0 0"/>
+<transparent value="true"/>
+<drawBorder value="false"/>
+<textFont resource="5"/>
+<textColor value="0 0 0"/>
+<justification value="CENTER"/>
+<PEID value="DCE.962CD9BB-188E-43B1-D4ED-8E68A329AD7C"/>
+</graphics>
+</edgeLabel>
+</edgeLabels>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.2C46D586-2B5C-03B6-1EEC-A95C01D99DB5"/>
+</graphics>
+</edge>
+<edge id="117" source="65" target="11">
+<sourceConnector value="74"/>
+<targetConnector value="38"/>
+<sourceClipping/>
+<targetClipping/>
+<url/>
+<visible value="true"/>
+<graphics type="relationEdge">
+<lineColor value="0 0 0"/>
+<arrowWidth value="6.0"/>
+<arrowHeight value="6.0"/>
+<arrowType value="NO_ARROW"/>
+<bendWidth value="5.0"/>
+<bendHeight value="5.0"/>
+<antiAliasing value="false"/>
+<PEID value="DCE.C71A9398-A699-6B2F-BCD0-9117517FA6B2"/>
+</graphics>
+</edge>
+</edges>
+<margins>
+<proportional bottom="0.0" left="0.0" right="0.0" top="0.0"/>
+<constant bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+</margins>
+<url/>
+<graphics type="basicGraph">
+<backgroundColor value="255 255 255"/>
+<imageUsed/>
+<imageTiled value="false"/>
+<imageStyle value="WORLD_OFFSET"/>
+<imageMinTileStep value="25"/>
+<imageX value="0.0"/>
+<imageY value="0.0"/>
+<drawNodesBeforeEdges value="true"/>
+</graphics>
+</graph>
+</graphs>
+<rootGraph value="10"/>
+</instances>
+</graphManager>
+<serviceInput type="jlayout">
+<defaults>
+<optionDefaults type="connector">
+<optionDefault name="all:all:connector:movable" value="false"/>
+</optionDefaults>
+<optionDefaults type="node">
+<optionDefault name="layout:all:node:embedded" value="true"/>
+<optionDefault name="all:all:node:attachmentSide" value="ATTACHMENT_SIDE_ANY"/>
+<optionDefault name="layout:symmetric:node:constrained" value="false"/>
+<optionDefault name="routing:all:node:fixedSize" value="false"/>
+<optionDefault name="routing:all:node:fixedPosition" value="false"/>
+</optionDefaults>
+<optionDefaults type="edge">
+<optionDefault name="layout:all:edge:embedded" value="true"/>
+<optionDefault name="layout:symmetric:edge:desiredLength" value="1.0"/>
+<optionDefault name="all:all:edge:sourceAttachmentSide" value="ATTACHMENT_SIDE_ANY"/>
+<optionDefault name="all:all:edge:targetAttachmentSide" value="ATTACHMENT_SIDE_ANY"/>
+</optionDefaults>
+<optionDefaults type="edgeLabel">
+<optionDefault name="labeling:all:edgeLabel:fixed" value="false"/>
+<optionDefault name="labeling:all:edgeLabel:association" value="EDGE_LABEL_ASSOCIATION_CENTER"/>
+<optionDefault name="labeling:all:edgeLabel:region" value="EDGE_LABEL_REGION_ANY"/>
+</optionDefaults>
+<optionDefaults type="graph">
+<optionDefault name="layout:orthogonal:graph:aspectRatio" value="0.0"/>
+<optionDefault name="layout:orthogonal:graph:verticalSpacingBetweenNodes" value="20.0"/>
+<optionDefault name="layout:symmetric:graph:nodeSpacing" value="10.0"/>
+<optionDefault name="layout:hierarchical:graph:horizontalSpacingBetweenEdges" value="12.0"/>
+<optionDefault name="layout:all:graph:incrementalCompaction" value="true"/>
+<optionDefault name="layout:all:graph:componentProportionalSpacing" value="0.05"/>
+<optionDefault name="layout:all:graph:disconnectedNodesConstantSpacing" value="20.0"/>
+<optionDefault name="layout:hierarchical:graph:levelDirection" value="DIRECTION_TOP_TO_BOTTOM"/>
+<optionDefault name="layout:hierarchical:graph:constantHorizontalSpacingBetweenNodes" value="20.0"/>
+<optionDefault name="layout:hierarchical:graph:orthogonalRouting" value="false"/>
+<optionDefault name="layout:hierarchical:graph:levelAlignment" value="CENTER_ALIGNED"/>
+<optionDefault name="layout:orthogonal:graph:keepNodeSizes" value="false"/>
+<optionDefault name="layout:hierarchical:graph:proportionalHorizontalSpacingBetweenNodes" value="0.1"/>
+<optionDefault name="layout:all:graph:detectDisconnectedNodes" value="true"/>
+<optionDefault name="layout:hierarchical:graph:proportionalVerticalSpacingBetweenNodes" value="0.1"/>
+<optionDefault name="layout:orthogonal:graph:horizontalSpacingBetweenEdges" value="12.0"/>
+<optionDefault name="layout:all:graph:detectComponents" value="true"/>
+<optionDefault name="layout:hierarchical:graph:constantVerticalSpacingBetweenNodes" value="20.0"/>
+<optionDefault name="layout:hierarchical:graph:edgeSpacing" value="12.0"/>
+<optionDefault name="layout:symmetric:graph:quality" value="LAYOUT_QUALITY_MEDIUM"/>
+<optionDefault name="layout:orthogonal:graph:quality" value="LAYOUT_QUALITY_MEDIUM"/>
+<optionDefault name="layout:hierarchical:graph:verticalSpacingBetweenEdges" value="12.0"/>
+<optionDefault name="layout:all:graph:componentAspectRatio" value="1.0"/>
+<optionDefault name="layout:hierarchical:graph:undirected" value="false"/>
+<optionDefault name="layout:symmetric:graph:randomSeed" value="1"/>
+<optionDefault name="layout:orthogonal:graph:verticalSpacingBetweenEdges" value="12.0"/>
+<optionDefault name="layout:orthogonal:graph:useCombLabeling" value="true"/>
+<optionDefault name="layout:all:graph:disconnectedNodesProportionalSpacing" value="0.05"/>
+<optionDefault name="layout:all:graph:layoutStyle" value="LAYOUT_STYLE_HIERARCHICAL"/>
+<optionDefault name="layout:hierarchical:graph:keepNodeSizes" value="false"/>
+<optionDefault name="layout:orthogonal:graph:strictIncremental" value="false"/>
+<optionDefault name="layout:all:graph:componentConstantSpacing" value="20.0"/>
+<optionDefault name="layout:orthogonal:graph:horizontalSpacingBetweenNodes" value="20.0"/>
+<optionDefault name="layout:hierarchical:graph:variableLevelSpacing" value="true"/>
+<optionDefault name="layout:hierarchical:graph:quality" value="LAYOUT_QUALITY_MEDIUM"/>
+</optionDefaults>
+<optionDefaults type="connectorLabel">
+<optionDefault name="labeling:all:connectorLabel:fixed" value="false"/>
+<optionDefault name="labeling:all:connectorLabel:region" value="CONNECTOR_LABEL_REGION_ANY"/>
+</optionDefaults>
+<optionDefaults type="nodeLabel">
+<optionDefault name="labeling:all:nodeLabel:region" value="NODE_LABEL_REGION_ANY"/>
+<optionDefault name="labeling:all:nodeLabel:location" value="NODE_LABEL_LOCATION_CENTER"/>
+<optionDefault name="labeling:all:nodeLabel:fixed" value="false"/>
+<optionDefault name="labeling:all:nodeLabel:orientation" value="NODE_LABEL_ORIENTATION_OUTSIDE"/>
+</optionDefaults>
+<optionDefaults type="graphManager">
+<optionDefault name="layout:all:graphManager:horizontalSpacingBetweenIntergraphEdges" value="12.0"/>
+<optionDefault name="routing:all:graphManager:horizontalSpacingBetweenNodes" value="20.0"/>
+<optionDefault name="routing:all:graphManager:fixedSize" value="true"/>
+<optionDefault name="routing:all:graphManager:verticalSpacingBetweenNodes" value="20.0"/>
+<optionDefault name="routing:all:graphManager:fixedPosition" value="true"/>
+<optionDefault name="layout:all:graphManager:verticalSpacingBetweenIntergraphEdges" value="12.0"/>
+<optionDefault name="layout:all:graphManager:incrementalLayout" value="false"/>
+<optionDefault name="routing:all:graphManager:horizontalSpacingBetweenEdges" value="12.0"/>
+<optionDefault name="routing:all:graphManager:verticalSpacingBetweenEdges" value="12.0"/>
+<optionDefault name="all:all:graphManager:performLabeling" value="true"/>
+</optionDefaults>
+</defaults>
+<option context="none" name="all:all:none:graphManager" value="6"/>
+</serviceInput>
+<preferences>
+<preference name="maximumZoomLevel" value="50.0"/>
+<preference name="interactiveZoomSensitivity" value="200.0"/>
+<preference name="panningSensitivity" value="1.0"/>
+<preference name="preventResizeInversion" value="false"/>
+<preference name="drawInvisibleOnDragging" value="false"/>
+<preference name="compressMetaEdges" value="true"/>
+<preference name="edgeNavigationTripDuration" value="300"/>
+<preference name="edgeNavigationFrameCount" value="10"/>
+<preference name="autoHideScrollbars" value="true"/>
+<preference name="hitToleranceThreshold" value="10"/>
+<preference name="opaqueMovement" value="true"/>
+<preference name="geometricAdjustment" value="true"/>
+<preference name="reconnectEdgeSensitivity" value="10.0"/>
+<preference name="edgeNavigationBlinkDuration" value="500"/>
+<preference name="undoStackSize" value="50"/>
+<preference name="minimumZoomLevel" value="1.0E-4"/>
+<preference name="inPlaceEditing" value="true"/>
+<preference name="tooltipsEnabled" value="true"/>
+<preference name="hitTolerance" value="5"/>
+<preference name="partialSelection" value="true"/>
+</preferences>
+</TSX>

@@ -1,0 +1,171 @@
+-- phpMyAdmin SQL Dump
+-- version 2.6.4-pl4
+-- http://www.phpmyadmin.net
+-- 
+-- Host: localhost
+-- Generation Time: Jan 14, 2008 at 11:56 AM
+-- Server version: 5.0.45
+-- PHP Version: 5.2.5
+-- 
+-- Database: `railcab`
+-- 
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `NextStation`
+-- 
+
+CREATE TABLE `NextStation` (
+  `StationID` int(11) NOT NULL default '0',
+  `NextStationTijd` int(11) NOT NULL default '0',
+  `NextStationID` int(11) NOT NULL default '0',
+  PRIMARY KEY  (`StationID`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- 
+-- Dumping data for table `NextStation`
+-- 
+
+INSERT INTO `NextStation` VALUES (1, 57600, 2);
+INSERT INTO `NextStation` VALUES (2, 112400, 3);
+INSERT INTO `NextStation` VALUES (3, 167200, 4);
+INSERT INTO `NextStation` VALUES (4, 114200, 5);
+INSERT INTO `NextStation` VALUES (5, 58600, 6);
+INSERT INTO `NextStation` VALUES (6, 72800, 7);
+INSERT INTO `NextStation` VALUES (7, 50400, 8);
+INSERT INTO `NextStation` VALUES (8, 67400, 1);
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `PreviousStation`
+-- 
+
+CREATE TABLE `PreviousStation` (
+  `StationID` int(11) NOT NULL default '0',
+  `PreviousStationID` int(11) NOT NULL default '0'
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- 
+-- Dumping data for table `PreviousStation`
+-- 
+
+INSERT INTO `PreviousStation` VALUES (1, 8);
+INSERT INTO `PreviousStation` VALUES (2, 1);
+INSERT INTO `PreviousStation` VALUES (3, 2);
+INSERT INTO `PreviousStation` VALUES (4, 3);
+INSERT INTO `PreviousStation` VALUES (5, 4);
+INSERT INTO `PreviousStation` VALUES (6, 5);
+INSERT INTO `PreviousStation` VALUES (7, 6);
+INSERT INTO `PreviousStation` VALUES (8, 7);
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `Reizigers`
+-- 
+
+CREATE TABLE `Reizigers` (
+  `ReizigerID` int(11) NOT NULL auto_increment,
+  `ContactNR` int(10) NOT NULL default '0',
+  `Startpunt` mediumtext NOT NULL,
+  `Eindpunt` mediumtext NOT NULL,
+  `VertrekTijd` bigint(20) NOT NULL default '0',
+  `AantalPersonen` int(11) NOT NULL default '0',
+  PRIMARY KEY  (`ReizigerID`)
+) ENGINE=MyISAM AUTO_INCREMENT=19805 DEFAULT CHARSET=latin1 AUTO_INCREMENT=19805 ;
+
+
+-- 
+-- Table structure for table `Station`
+-- 
+
+CREATE TABLE `Station` (
+  `StationID` int(11) NOT NULL default '0',
+  `StationNaam` text NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- 
+-- Dumping data for table `Station`
+-- 
+
+INSERT INTO `Station` VALUES (1, 'Station1');
+INSERT INTO `Station` VALUES (2, 'Station2');
+INSERT INTO `Station` VALUES (3, 'Station3');
+INSERT INTO `Station` VALUES (4, 'Station4');
+INSERT INTO `Station` VALUES (5, 'Station5');
+INSERT INTO `Station` VALUES (6, 'Station6');
+INSERT INTO `Station` VALUES (7, 'Station7');
+INSERT INTO `Station` VALUES (8, 'Station8');
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `TussenWisselSensor`
+-- 
+
+CREATE TABLE `TussenWisselSensor` (
+  `StationID` text NOT NULL,
+  `TijdTotVolgendeSensor` int(11) NOT NULL default '0'
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- 
+-- Dumping data for table `TussenWisselSensor`
+-- 
+
+INSERT INTO `TussenWisselSensor` VALUES ('Station1', 17600);
+INSERT INTO `TussenWisselSensor` VALUES ('Station2', 20600);
+INSERT INTO `TussenWisselSensor` VALUES ('Station3', 18000);
+INSERT INTO `TussenWisselSensor` VALUES ('Station4', 18400);
+INSERT INTO `TussenWisselSensor` VALUES ('Station5', 17200);
+INSERT INTO `TussenWisselSensor` VALUES ('Station6', 18000);
+INSERT INTO `TussenWisselSensor` VALUES ('Station7', 17600);
+INSERT INTO `TussenWisselSensor` VALUES ('Station8', 19000);
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `VoorSensoren`
+-- 
+
+CREATE TABLE `VoorSensoren` (
+  `StationID` text,
+  `SensorNR` int(11) NOT NULL default '0',
+  `TijdTotVolgendeSensor` int(11) NOT NULL default '0',
+  `NextSensor` int(11) NOT NULL default '0'
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- 
+-- Dumping data for table `VoorSensoren`
+-- 
+
+INSERT INTO `VoorSensoren` VALUES ('Station1', 0, 19200, 1);
+INSERT INTO `VoorSensoren` VALUES ('Station1', 1, 13200, 2);
+INSERT INTO `VoorSensoren` VALUES ('Station1', 2, 20000, 10);
+INSERT INTO `VoorSensoren` VALUES ('Station2', 0, 23000, 1);
+INSERT INTO `VoorSensoren` VALUES ('Station2', 1, 20000, 10);
+INSERT INTO `VoorSensoren` VALUES ('Station3', 0, 14000, 1);
+INSERT INTO `VoorSensoren` VALUES ('Station3', 1, 16000, 2);
+INSERT INTO `VoorSensoren` VALUES ('Station3', 2, 18000, 3);
+INSERT INTO `VoorSensoren` VALUES ('Station3', 3, 28200, 4);
+INSERT INTO `VoorSensoren` VALUES ('Station3', 4, 20000, 10);
+INSERT INTO `VoorSensoren` VALUES ('Station7', 0, 12400, 1);
+INSERT INTO `VoorSensoren` VALUES ('Station4', 0, 24000, 1);
+INSERT INTO `VoorSensoren` VALUES ('Station4', 1, 17400, 2);
+INSERT INTO `VoorSensoren` VALUES ('Station4', 2, 26000, 3);
+INSERT INTO `VoorSensoren` VALUES ('Station4', 3, 19000, 4);
+INSERT INTO `VoorSensoren` VALUES ('Station5', 4, 20000, 10);
+INSERT INTO `VoorSensoren` VALUES ('Station4', 5, 20000, 10);
+INSERT INTO `VoorSensoren` VALUES ('Station6', 1, 20000, 10);
+INSERT INTO `VoorSensoren` VALUES ('Station5', 0, 26600, 1);
+INSERT INTO `VoorSensoren` VALUES ('Station5', 1, 16200, 2);
+INSERT INTO `VoorSensoren` VALUES ('Station5', 2, 17200, 3);
+INSERT INTO `VoorSensoren` VALUES ('Station5', 3, 18800, 4);
+INSERT INTO `VoorSensoren` VALUES ('Station4', 4, 25200, 5);
+INSERT INTO `VoorSensoren` VALUES ('Station6', 0, 23800, 1);
+INSERT INTO `VoorSensoren` VALUES ('Station7', 1, 16600, 2);
+INSERT INTO `VoorSensoren` VALUES ('Station7', 2, 8800, 3);
+INSERT INTO `VoorSensoren` VALUES ('Station7', 3, 20000, 10);
+INSERT INTO `VoorSensoren` VALUES ('Station8', 0, 16600, 1);
+INSERT INTO `VoorSensoren` VALUES ('Station8', 1, 20000, 10);

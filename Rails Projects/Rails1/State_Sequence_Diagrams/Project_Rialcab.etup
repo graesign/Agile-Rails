@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMI xmlns:UML="omg.org/UML/1.4" xmi.version="2.0">
+   <XMI.header>
+      <XMI.metamodel xmi.name="UML" xmi.version="1.4"/>
+		<XMI.documentation>
+			<XMI.exporter>
+				Embarcadero's Describe
+			</XMI.exporter>
+			<XMI.exporterVersion>
+				6.0
+			</XMI.exporterVersion>
+		</XMI.documentation>
+   </XMI.header>
+
+   <XMI.content>
+   <UML:Profile xmi.id="DCE.91383518-7780-9259-A499-4EF4886CE1AC" name="Unnamed" isCloned="true" href=".\Project_Rialcab.etup#//*[@xmi.id=&apos;DCE.91383518-7780-9259-A499-4EF4886CE1AC&apos;]" isDirty="false"><UML:Element.ownedElement>
+<UML:Stereotype xmi.id="DCE.64D8D012-2100-47F6-1DAC-D26C0A761AEC" name="interface" owner="__uri_.\Project_Rialcab.etup#//*[@xmi.id=&apos;DCE.91383518-7780-9259-A499-4EF4886CE1AC&apos;]"/>
+<UML:Stereotype xmi.id="DCE.121043ED-F010-19C2-CCDF-233C0F015DEE" name="utility" owner="__uri_.\Project_Rialcab.etup#//*[@xmi.id=&apos;DCE.91383518-7780-9259-A499-4EF4886CE1AC&apos;]"/>
+<UML:Stereotype xmi.id="DCE.D4919C36-0A66-40F9-F641-C04ACC30CA3A" name="boundary" owner="__uri_.\Project_Rialcab.etup#//*[@xmi.id=&apos;DCE.91383518-7780-9259-A499-4EF4886CE1AC&apos;]"/></UML:Element.ownedElement></UML:Profile></XMI.content>
+</XMI>
