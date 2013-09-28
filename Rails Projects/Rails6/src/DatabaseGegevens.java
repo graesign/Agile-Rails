@@ -9,17 +9,18 @@ public class DatabaseGegevens{
 		
 		/* url: JDBC URL; parts one and two are supplied by your driver, 
 		 * and the third part specifies your data source. */
-		String		url			=	"jdbc:mysql://localhost/railscab";
+//		String		url		=	"jdbc:mysql://localhost/railscab";
+                String		url		=	"jdbc:mysql:144.76.76.182/c3school";
 		
 		// userid: your login name or user name
-		String 		userid		=	"railscab";
+		String 		userid		=	"c3school";
 		
 		// password: your password for the DBMS
-		String 		password	=	"railscab";
+		String 		password	=	"lGqdxVW4dUJKl";
 		
 		Connection	conn		=	null;
 		Statement	stmt		=	null;
-		ResultSet	rs			=	null;
+		ResultSet	rs              =	null;
 			
 		try{
 			// Load driver

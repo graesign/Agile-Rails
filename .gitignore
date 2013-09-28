@@ -6,6 +6,7 @@
 *.ear
 /Rails Projects/Rails6/build/
 /Rails Projects/Rails6/src/Config.java
+#/Rails Projects/Rails6/src/DatabaseGegevens.java
+
 AgileRailsSchool.sublime-workspace
 AgileRailsSchool.sublime-project
-
