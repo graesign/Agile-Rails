@@ -80,20 +80,20 @@ public class RailsApp extends JFrame {
 	}
 
 	public void begin() {
-		isFullScreen = device.isFullScreenSupported();
-		setUndecorated(isFullScreen);
-		setResizable(!isFullScreen);
-		if (isFullScreen) {
-			// Full-screen mode
-			device.setFullScreenWindow(this);
-			validate();
-		} else {
-			// Windowed mode
-			pack();
-			setVisible(true);
-		}
-		Statistiek.refresh();
-		loop();
+            isFullScreen = device.isFullScreenSupported();
+            setUndecorated(isFullScreen);
+            setResizable(!isFullScreen);
+            if (isFullScreen) {
+                    // Full-screen mode
+                    device.setFullScreenWindow(this);
+                    validate();
+            } else {
+                    // Windowed mode
+                    pack();
+                    setVisible(true);
+            }
+            Statistiek.refresh();
+            loop();
 	}
 
 	public void loop() {

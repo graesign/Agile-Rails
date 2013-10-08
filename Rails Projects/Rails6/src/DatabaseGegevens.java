@@ -1,20 +1,14 @@
 
 import java.sql.*;
-	
-public class DatabaseGegevens{
-	
-	public static void getData(){
-			
+
+public class DatabaseGegevens{	
+	public static void getData(){			
 		String 		driver		=	"com.mysql.jdbc.Driver";
-		
 		/* url: JDBC URL; parts one and two are supplied by your driver, 
 		 * and the third part specifies your data source. */
-//		String		url		=	"jdbc:mysql://localhost/railscab";
                 String		url		=	"jdbc:mysql:144.76.76.182/c3school";
-		
-		// userid: your login name or user name
+		// userid: your login name or user namex
 		String 		userid		=	"c3school";
-		
 		// password: your password for the DBMS
 		String 		password	=	"lGqdxVW4dUJKl";
 		
